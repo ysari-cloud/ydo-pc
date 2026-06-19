@@ -5,13 +5,16 @@
 > arama dizgeleri, STORM çıktısı, kodlama şeması, iş akışı — hepsi orada).
 
 ## 🔖 DEVAM NOKTASI
-- **Durum:** Aşama 1 (RESEARCH) hazırlığı tamam. Brif depoya kalıcılaştırıldı (2026-06-19).
-- **Blokaj:** §10.1 = WoS Core Collection + Scopus arama+export **kullanıcının kurumsal
-  erişimini** gerektirir; bu ortamdan o veri tabanlarına giriş YOK. Dizgeler brif §4'te
-  kopyala-yapıştır hazır.
-- **Buradan yapılabilecek:** §10.2 dergi merdiveni teyidi (web ile) ✅ TAMAMLANDI.
-- **Sıradaki gerçek blokaj:** §10.1 export (kullanıcı kurumsal erişim) — onsuz §10.3 başlayamaz.
-  Paralel ilerletilebilir: §8a giriş çerçevesi taslağı (atıf yuvaları boş).
+- **✅ EXPORT YAPILDI (kullanıcı, kurumsal erişim).** Korpus sayıları (gerçek veri, 2026-06-19):
+  **Geniş katman (A AND D) = 3.050 kayıt** · **Odaklı katman (A AND D AND C) = 328 kayıt.**
+  Geniş ≫300 → brif kalibrasyonu sağlandı, C aramada kalır. Dedup + PRISMA-identification tamam.
+- **KARAR (brif §4/§6 ile sabit): Tam bibliyometri = GENİŞ set (3.050) üzerinde** (AS1–AS3:
+  performans + eş-atıf/eşleşme/eş-oluşum + tematik evrim — büyük korpus ister). **Odaklı 328 =
+  SENTEZ hattı** (AS4–AS5); tam-metin elemesiyle 20–60'a inecek, bibliyometriye SOKULMAZ.
+- **Ortam notu:** Bibliyometri yürütümü kullanıcının cowork/yerel oturumunda; R/bibliometrix YOK
+  → Python (pandas/matplotlib) + VOSviewer ağ dosyaları. WoS ham dosyaları zengin alanlı
+  (AU/AF/C1/C3/DE/ID/CR/TC); minimal dedup CSV yerine HAM dosyalardan tam metadata re-parse.
+- **Önceki blokaj (§10.1 export) ÇÖZÜLDÜ;** sıradaki = analiz yürütümü (cowork oturumu).
 
 ## ⚖️ Değişmez ilkeler (brif §1)
 - Hiçbir kaynak/atıf/DOI/sayı UYDURULMAZ. Doğrulanamayan kaynak rapora girmez.
