@@ -58,6 +58,9 @@ Tüm adaylar SSCI Q1. Önerilen sıra: **ILE → ReCALL → CALL → JCAL → Sy
 - `03-prisma-protokol.md` — a priori PRISMA 2020 protokolü (OSF-hazır iskelet).
 - `04-kodlama-kitabi.md` — C1–C8 codebook (tanım+karar kuralı+örnek), v0.1.
 - `05-giris-cercevesi-taslak.md` — §8a giriş argüman iskeleti, 12 `[ATIF:]` yuvası (uydurma YOK).
+- `06-yontem-taslak.md` — Yöntem bölümü prose taslağı v1 (İngilizce, PRISMA 2020). Gerçek sayılar
+  gömülü (3.050/329/223); `[SEARCH DATE]`/`[κ]`/`[N]` + atıf yuvaları doğrulamaya açık.
+- `synthesis_screening.xlsx` — cowork sentez ön-taraması (incelendi).
 
 ## ⏭️ Kullanıcı sabah dönünce
 1. `02-export-rehberi.md`'yi izle → WoS+Scopus geniş katman sonuç SAYILARINI bana söyle (kalibrasyon).
