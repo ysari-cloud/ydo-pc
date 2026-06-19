@@ -4,6 +4,13 @@
 > `projects/yz-yabancidil-derleme/00-PROJE-BRIFI.md` (kilitli kararlar, PRISMA protokolü,
 > arama dizgeleri, STORM çıktısı, kodlama şeması, iş akışı — hepsi orada).
 
+## 🧭 ROL DAĞILIMI (kullanıcı kararı, 2026-06-19 — KESİN)
+- **Cowork (kullanıcı PC'si) = TÜM YÜRÜTME + TÜM YAZIM.** Bibliyometri, sentez, makale metni
+  hepsi orada yazılır. Yazım TEK yerde olacak.
+- **Bu oturum (cloud) = TAKİP + YÖNLENDİRME + DENETİM.** Metodoloji/bütünlük kontrolü, dergi/atıf
+  doğrulama (web erişimi var), yönerge hazırlama, kalıcı hafıza. **Cloud makale metni YAZMAZ.**
+- `06-yontem-taslak.md` = cowork'ün kullanabileceği REFERANS iskelet (paralel taslak değil).
+
 ## 🔖 DEVAM NOKTASI
 - **✅ EXPORT YAPILDI (kullanıcı, kurumsal erişim).** Korpus sayıları (gerçek veri, 2026-06-19):
   **Geniş katman (A AND D) = 3.050 kayıt** · **Odaklı katman (A AND D AND C) = 328 kayıt.**

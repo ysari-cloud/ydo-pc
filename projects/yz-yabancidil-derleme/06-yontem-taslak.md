@@ -1,4 +1,9 @@
-# Yöntem (Method) — Taslak v1
+# Yöntem (Method) — REFERANS İSKELET (cowork yazımı için)
+
+> ⚠️ ROL NOTU (2026-06-19): Makale metni TEK yerde — kullanıcının PC'sinde (cowork) — yazılır.
+> Bu dosya paralel bir taslak DEĞİL; cowork'ün Yöntem bölümünü yazarken kullanabileceği bir
+> referans/checklist'tir (yapı + gerçek sayılar + doldurulacak yer tutucular). Cloud oturumu
+> bundan sonra metin üretmez; yalnızca denetler/yönlendirir.
 
 > Brif §5/§6 + PRISMA protokol `03`'ün yayına hazır prose hâli. Yayın dili İngilizce; yönlendirme
 > notları Türkçe (> blok). **Gerçek sayılar** elimizdekiler: geniş korpus n=3.050, odaklı n=329
