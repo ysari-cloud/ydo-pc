@@ -38,14 +38,17 @@ Bunlar vetis/kütüphane girişi ister, script bypass edemez (yasal değil):
 Kullanıcının Zotero'su kurulu (giriş: emre_sari). İstersen indirdiğin PDF'leri Zotero'ya da
 ekleyebilirsin, ama ZORUNLU DEĞİL — öncelik `pdf/` klasörünü doldurmak.
 
-## 4) Rapor + commit
-- `projects/yz-yabancidil-derleme/pdf/_INDIRME_RAPORU.md` yaz: hangi n indi (boyut), hangisi
-  inmedi/neden, kapalı-vetis listesi (kullanıcının indireceği nihai liste).
-- `pdf/` klasörünü ve raporu commit'le, dala push et:
-  `git add projects/yz-yabancidil-derleme/pdf/ && git commit -m "akademik: 47 dahil PDF (OA) toplandi + indirme raporu" && git push -u origin claude/youthful-franklin-wszezx`
+## 4) Rapor (YALNIZ rapor commit'lenir — PDF'LER ASLA buluta gitmez)
+⚠️ **PDF'leri repoya EKLEME/PUSH ETME.** PDF'ler yerel PC'de `pdf/` klasöründe kalacak
+(depo şişmesin). `pdf/` zaten `.gitignore`'da; öyle kalsın.
+- Sadece şu küçük markdown raporu commit'le:
+  `projects/yz-yabancidil-derleme/araclar/_INDIRME_RAPORU.md` — hangi n indi (boyut),
+  hangisi inmedi/neden, kullanıcının vetis'ten indireceği nihai kapalı liste.
+- Push:
+  `git add projects/yz-yabancidil-derleme/araclar/_INDIRME_RAPORU.md && git commit -m "akademik: OA PDF indirme raporu (PDF'ler yerelde)" && git push -u origin claude/youthful-franklin-wszezx`
   (Push ağ hatası verirse 2s/4s/8s/16s bekleyerek 4 kez dene.)
 
 ## Sınır
 Sahte/eksik PDF koyma; HTML'i PDF diye kaydetme. Bulamadığını "bulunamadı" yaz, uydurma.
-PDF'ler büyükse repoya commit sorun olur mu diye bak; gerekirse `pdf/` için Git LFS kullan
-ya da kullanıcıya "yerelde duruyor, istersen LFS kurayım" de.
+**PDF'ler yalnız yerel PC'de durur; buluta/repoya yüklenmez.** Sentez aşamasında tam metin
+gerektiğinde kullanıcı ilgili PDF'i tek tek paylaşır.
