@@ -12,6 +12,15 @@
 - `06-yontem-taslak.md` = cowork'ün kullanabileceği REFERANS iskelet (paralel taslak değil).
 
 ## 🔖 DEVAM NOKTASI
+- **🟩 YÖNTEMSEL KARAR SABİT (kullanıcı yönergesi, 2026-06-19): "Hakemde sorun çıkarmayacak,
+  en savunulabilir yoldan git."** → **Klasik ikili tarama:** Screener-1 = İNSAN (otorite, tam-metin),
+  Screener-2 = TEK YZ (Claude, `15b` mühürlü), birbirine kör. **Raporlanan güvenilirlik = bu ikisi
+  arası Cohen κ.** Gemini (`16b`) + Manus (`16c`) + derin-arama (`18`) yalnızca **Ek'te robustluk/
+  şeffaflık** — multi-LLM ANA YÖNTEM diye SUNULMAZ (risk orada). **Nihai N = insan kararları**;
+  YZ paneli N=48 yalnız öneri girdisi. Bunu bir daha kullanıcıya SORMA, bu çizgide ilerle.
+- **Sınır vakalar çözüldü (`18`):** 10 tartışmalı kayıt derin-aramayla karara bağlandı →
+  provizyonel N=48 (DAHİL +5: 4,13,25,29,46 · DIŞLA +5: 19,24,35,36,56). Tek "med" = #13 Lin
+  (vetis tam-metin önceliği). κ-paradoksu notu: INCLUDE yaygınlığı yüksek → ham anlaşma + κ birlikte raporla.
 - **🟦 META-ANALİZ KARARI (kullanıcı, 2026-06-19): AYRI 2. MAKALE** (aynı korpustan), bu makaleye
   EKLENMEZ. Makale 1 = bibliyometri + sistematik derleme (nitel sentez), odaklı kalır; meta-analiz
   Makale 1 gönderilince başlar. Plan: `17-makale2-meta-analiz-plani.md` (feasibility kapısı: geniş
