@@ -40,7 +40,7 @@ nedeniyle dikkatle yorumlanmalıdır; baskın anlatı 2024 patlamasıdır.
 ## Öne çıkan performans bulguları
 - En üretken ülkeler: Çin 957 · ABD 391 · Suudi Arabistan 192 · BK 158 · G. Kore 144 · Japonya 140 · Türkiye 121 (ilk 10 elle doğrulandı).
 - En üretken kaynaklar: System 66 · Computer Assisted Language Learning 59 · Arab World English Journal 55.
-- Tematik evrim (yazar anahtar sözcüğü tabanlı): konuşma çerçevesi %70,8→%39,4→%22,2; üretim çerçevesi %5,6→%20,3→%38,0 (2024–26'da üretim ilk kez konuşmayı geçti).
+- Tematik evrim (TEMİZ sözlük, kelime-sınırı; 2024-06 düzeltmesi): **konuşma çerçevesi %58,3→%35,0→%14,3** (sağlam düşüş); **üretim çerçevesi emergent — mutlak 2→7→51, üretim/konuşma oranı 0,05→0,13** (konuşmayı GEÇMEDİ). ⚠️ Eski "%5,6→%20,3→%38,0 (üretim geçti)" değerleri `'generative'` sözlük şişmesinin yapay sonucuydu — KULLANILMAZ (bkz. `12-cloud-denetim-taslak-v2.md`).
 
 ## Sentez ön-kodlama (özet temelli; insan doğrulaması şart)
 - Öncelikli-40'ta C1 dağılımı: içerik üreticisi 28 · eş-tasarımcı 6 · özerk geliştirici 4 · konuşma-öğretici 1.
