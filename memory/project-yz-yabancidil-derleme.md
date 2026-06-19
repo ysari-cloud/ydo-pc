@@ -12,6 +12,18 @@
 - `06-yontem-taslak.md` = cowork'ün kullanabileceği REFERANS iskelet (paralel taslak değil).
 
 ## 🔖 DEVAM NOKTASI
+- **✅ TASLAK v2 GELDİ + DENETLENDİ → GEÇER (cloud, 2026-06-19) → `12-cloud-denetim-taslak-v2.md`.**
+  `Makale_Taslak_v2.docx` (commit 2a6cebd). Cowork 09/10 engelleyici düzeltmeleri uyguladı:
+  - **AS3 DÜRÜST düzeltildi:** konuşma %58,3→%35,0→%14,3 (sağlam düşüş); üretim emergent (2→7→51,
+    oran 0,05→0,13, GEÇMEDİ). Yapay "%38" manşeti kaldırıldı (cloud endişesi 09 DOĞRULANDI).
+    Duyarlılık paragrafı + Appendix C sözlükler + dürüst "qualified support" çerçeve. Örnek bütünlük.
+  - **Atıf bütünlüğü: 12/12 web'den DOĞRULANDI** (Law, Zhai, Huang, Kohnke, Jeon×2, Ji, Davar +
+    4 metodolojik). APA tam yazar düzeltmeleri uygulanmış. PRISMA 27-madde checklist (Appendix D) eklendi.
+  - κ/nihai N hâlâ yer tutucu (uydurulmamış). Dergi çeyreklik teyitli (01).
+- **Kalan (ENGELLEYİCİ DEĞİL, insan işi):** (1) 56-set tam-metin + 2.tarayıcı → **κ + nihai N** ·
+  (2) cowork: sentez bulguları (RQ4-5) → v3 · (3) opsiyonel skill-kıyas (`11`, baz=v2).
+- **Skill-kıyas hazır:** `11-cowork-skill-yazim-yonergesi.md` (v2'ye göre güncel) — kullanıcı yeni
+  cowork penceresinde çalıştıracak; ben sonra v2 vs skill kıyaslarım.
 - **✅ WRITE GELDİ + DENETLENDİ (cloud, 2026-06-19) → `10-cloud-denetim-taslak-v1.md`.**
   `Makale_Taslak_v1.docx` (commit 49e40a2, 69 paragraf): Abstract+Giriş(4-move)+Yöntem+Bulgular-
   Bibliyometri+ön-Sentez+Tartışma iskeleti+12 kaynak. Atıf bütünlüğü GEÇER (Law 2024, Zhai&Wibowo
