@@ -12,6 +12,17 @@
 - `06-yontem-taslak.md` = cowork'ün kullanabileceği REFERANS iskelet (paralel taslak değil).
 
 ## 🔖 DEVAM NOKTASI
+- **🟡 κ/N TARAMASI KURULDU (cloud, 2026-06-19) — kullanıcı kararı: YZ ikinci tarayıcı (ben)+beyan.**
+  56 kaydı bağımsız (özet-temelli, cowork ön-kodlamasına kör) taradım. 3 artefakt üretildi:
+  - `15-tam-metin-tarama-protokolu.md` — ortak karar kuralı + κ planı + **kapsam varyantı kararı (§3:
+    A kapsayıcı [önerilen] vs B katı)** + YZ-beyan taslağı + asimetri sınırlama notu.
+  - `15b-screener2-AI-muhurlu-kararlar.md` — benim MÜHÜRLÜ kararlarım (bağımsızlık kanıtı, git damgalı).
+    **INC_kapsayıcı(A)=53/56** (dışla 33,49,55) · **INC_katı(B)=48/56** (dışla 31,33,36,41,42,45,49,55).
+    Kesin dışlama her iki varyant: #49 programlama-dili (konu-dışı), #55 genel-eğitim ajan-metodoloji,
+    #33 genel-eğitim tutum (dil-özgü değil). Konuşma-kutbu (31,41,42,45) + puanlama (36) = varyanta bağlı.
+  - `tam-metin-tarama-FORMU.xlsx` — kullanıcının dolduracağı boş form (KÖR: 15b'ye bakmadan).
+  - **SIRADA (kullanıcı):** kapsam varyantını seç (A/B) → FORMU tam metinden doldur → bana ver →
+    Cohen κ + anlaşmazlık listesi + **nihai N** hesaplarım; anlaşmazlıkları kullanıcı adjudike eder.
 - **✅ KIYAS YAPILDI: v2 (doğrudan) vs skill → `13-kiyas-raporu-v2-vs-skill.md`.**
   `Makale_Taslak_skill.docx` (commit 67ae855) geldi, bağımsız doğrulandı (12 atıf, 15 [CITE:],
   κ/N yer tutucu, temiz AS3, kirli %38 yok). Hüküm:
