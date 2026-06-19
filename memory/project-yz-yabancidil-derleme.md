@@ -15,6 +15,13 @@
   → Python (pandas/matplotlib) + VOSviewer ağ dosyaları. WoS ham dosyaları zengin alanlı
   (AU/AF/C1/C3/DE/ID/CR/TC); minimal dedup CSV yerine HAM dosyalardan tam metadata re-parse.
 - **Önceki blokaj (§10.1 export) ÇÖZÜLDÜ;** sıradaki = analiz yürütümü (cowork oturumu).
+- **🔄 ANALİZ UÇUYOR (cowork, 2026-06-19):** biblio_analysis.py yazıldı; 6 adım = (1) ham
+  metadata parse → (2) performans AS1 → (3) bilim haritalama AS2 → (4) tematik evrim AS3
+  (2018-21/2022-23/2024-) → (5) çıktı derleme (Excel/figür/VOSviewer/Word) → (6) figür-tablo
+  doğrulama. Brife uygun. **Teknik watch-out (cowork'e relay edildi):** eş-atıf=WoS `CR`
+  üzerinden (Scopus refs ayrı); haritalar için ham dosya→VOSviewer doğrudan; keyword thesaurus
+  normalizasyonu (ChatGPT/GPT, AI, tekil-çoğul); ülke/kurum C1/C3 parse'ı gözle doğrula.
+  Cowork çıktıları (tablolar + dahil-liste) bu repoya commit edilecek → ben yazım+doğrulamaya geçeceğim.
 
 ## ⚖️ Değişmez ilkeler (brif §1)
 - Hiçbir kaynak/atıf/DOI/sayı UYDURULMAZ. Doğrulanamayan kaynak rapora girmez.
