@@ -12,6 +12,17 @@
 - `06-yontem-taslak.md` = cowork'ün kullanabileceği REFERANS iskelet (paralel taslak değil).
 
 ## 🔖 DEVAM NOKTASI
+- **✅ WRITE GELDİ + DENETLENDİ (cloud, 2026-06-19) → `10-cloud-denetim-taslak-v1.md`.**
+  `Makale_Taslak_v1.docx` (commit 49e40a2, 69 paragraf): Abstract+Giriş(4-move)+Yöntem+Bulgular-
+  Bibliyometri+ön-Sentez+Tartışma iskeleti+12 kaynak. Atıf bütünlüğü GEÇER (Law 2024, Zhai&Wibowo
+  2023 web'den doğrulandı; 4 metodolojik standart). κ/N/klasik atıflar yer tutucu (uydurma yok).
+  - **🔴 ENGELLEYİCİ: AS3 düzeltmesi (09) UYGULANMAMIŞ** — taslak hâlâ kirli sayılarda (üretim
+    %5,6→%38,0, para 46/5/52). Cowork CONV/PROD_LEX temizleyip **AS3 re-run** etmeli, sonra Abstract/
+    §3.3/§4 sayılarını güncellemeli. Re-run CowORK'te (ham veri repoda yok). Kayma yönü muhtemelen
+    korunur (SliceKeywords bağımsız destekliyor) ama değerler değişecek → bu hâliyle revize'ye gitmez.
+  - Küçük: APA "Davar et al." girişi düzelt; PRISMA 27-madde checklist ekle; kalan korpus DOI'leri teyit.
+- **Sıra:** (cowork) AS3 re-run+taslak güncelle+APA/checklist · (kullanıcı) 56-set tam-metin+2.tarayıcı→
+  κ/N→sentez · (cloud) kalan DOI doğrula, v2'de tam bütünlük+PRISMA-27 denetimi. Token REVOKE.
 - **✅ AŞAMA 2 GELDİ + DENETLENDİ (cloud, 2026-06-19) → `09-cloud-denetim-ve-yonerge.md`.**
   Cowork tam bibliyometriyi push etti (`analysis/`: 14-sayfa xlsx, 13 figür, PRISMA diyagramı,
   VOSviewer dosyaları, scriptler, repro manifest, `08-bibliometri-bulgu-ozeti.md`).
