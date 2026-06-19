@@ -12,6 +12,13 @@
 - `06-yontem-taslak.md` = cowork'ün kullanabileceği REFERANS iskelet (paralel taslak değil).
 
 ## 🔖 DEVAM NOKTASI
+- **✅ KIYAS YAPILDI: v2 (doğrudan) vs skill → `13-kiyas-raporu-v2-vs-skill.md`.**
+  `Makale_Taslak_skill.docx` (commit 67ae855) geldi, bağımsız doğrulandı (12 atıf, 15 [CITE:],
+  κ/N yer tutucu, temiz AS3, kirli %38 yok). Hüküm:
+  - **En iyi YAZIM = skill** (4-move giriş, tam Tartışma 5.1–5.4 + Sonuç, anti-ai prozası).
+  - **En iyi VERİ ARTEFAKTI = v2** (4 tablo + 5 figür/VOSviewer; skill'de figür YOK → tek başına gönderilemez).
+  - **ÖNERİ: Hibrit v3** = skill iskelet/proza + v2 figür/tablo/Appendix C-D. Karar kullanıcıda.
+  - Sonra: insan tam-metin (56) → κ+N → Sentez (RQ4-5) → v3 tamam.
 - **✅ TASLAK v2 GELDİ + DENETLENDİ → GEÇER (cloud, 2026-06-19) → `12-cloud-denetim-taslak-v2.md`.**
   `Makale_Taslak_v2.docx` (commit 2a6cebd). Cowork 09/10 engelleyici düzeltmeleri uyguladı:
   - **AS3 DÜRÜST düzeltildi:** konuşma %58,3→%35,0→%14,3 (sağlam düşüş); üretim emergent (2→7→51,
