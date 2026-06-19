@@ -13,18 +13,24 @@
 
 ## 🔖 DEVAM NOKTASI
 
-### ⏩ ŞU AN NEREDEYİZ (2026-06-19, son durum)
-**Aşama: 47 dahil makalenin TAM METNİNİ toplama.**
+### ⏩ ŞU AN NEREDEYİZ (2026-06-20, son durum)
+**Aşama: 47 dahil makalenin TAM METNİNİ toplama — OA indirme TURU yapıldı.**
 - Erişim haritası: `19-tam-metin-erisim-listesi.md` → ~29 OA (linkli) + **18 kapalı** (vetis).
-- Araçlar (`araclar/`): `pdf_indir.sh`, `zotero_doi_listesi.txt`, `COWORK-GOREV.md`.
+- Araçlar (`araclar/`): `pdf_indir.sh`, `zotero_doi_listesi.txt`, `COWORK-GOREV.md`, **`_INDIRME_RAPORU.md`** (commit `1d9f9ac`).
 - **Zotero kullanıcı PC'sinde KURULU** (giriş: emre_sari). Connector + masaüstü tamam.
-- **PDF'ler YALNIZ YEREL PC'de** (`pdf/` → `.gitignore`'da). Buluta PDF YÜKLENMEZ. Tam metin
-  gerektiğinde kullanıcı o tek PDF'i paylaşır (Lin'de yaptığı gibi).
-- **Cowork'e devredildi:** OA PDF'leri indir → `pdf/`'e (yerel) → yalnız `_INDIRME_RAPORU.md` push.
-- **BEKLEYEN:** (a) cowork OA indirme raporu; (b) kullanıcı 18 kapalıyı vetis+Connector ile indirir;
-  (c) **insan tarama formu** → Cohen κ (insan↔Claude) + nihai N → v3'teki `[κ]`/`[N]`;
-  (d) sonra tam metinlerden **C1–C8 kodlama + "included studies" tablosu**; (e) ops: `raw_data`
-  push → tam özetler (xlsx'te özetler 300 krktr kırpık, BENİM kırpmam, kaynak tam).
+- **PDF'ler YALNIZ YEREL/sandbox'ta** (`pdf/` → `.gitignore`'da). Buluta PDF YÜKLENMEZ.
+- **✅ OA İNDİRME RAPORU GELDİ (`_INDIRME_RAPORU.md`):** sandbox'tan **14/29 OA indi+doğrulandı**
+  (her dosya `%PDF` + pypdf sayfa kontrolü; 08,11,12,16,17,25,26,32,34,37,39,44,47,54 — ~11MB,
+  ⚠️ bu PDF'ler sandbox'ta kaldı, kullanıcı PC'sinde DEĞİL). **15/29 OA inmedi** = bu bulut IP'si
+  yayıncı bot-duvarında (ScienceDirect/MDPI/Wiley/T&F 403, ResearchGate giriş, 22/41/43 host
+  erişim) → **gerçek OA, kullanıcı kendi ağı+Connector ile saniyede indirir** (öncelik kolaylar:
+  03,07,14,22,38,41,43,46,48,50,51). **18 kapalı** dokunulmadı (vetis): 1,2,4,5,6,9,15,18,20,21,
+  27,29,30,31,40,45,52,53 (#21 ERIC EJ1457846=404, #4 ERIC tam-metin yok → ikisi de vetis).
+- **BEKLEYEN:** (a) kullanıcı 15 OA'yı kendi ağından + 18 kapalıyı vetis/Connector ile indirir;
+  (b) **insan tarama formu** (`tam-metin-tarama-FORMU.xlsx`, `15b`'ye kör) tam metinden doldurulur;
+  (c) Gemini screener-3 (`16-...PROMPT.md`) çalıştırılır → çıktı bana → ben **Fleiss+çiftli Cohen κ +
+  nihai N**; (d) v3'teki `[κ]`/`[N]` dolar; (e) tam metinlerden **C1–C8 kodlama + "included studies"
+  tablosu**; (f) ops: `raw_data` push → tam özetler (xlsx özetleri 300 krktr kırpık, kaynak tam).
 
 ### Kalıcı kararlar
 - **🟩 YÖNTEMSEL KARAR SABİT (kullanıcı yönergesi, 2026-06-19): "Hakemde sorun çıkarmayacak,
