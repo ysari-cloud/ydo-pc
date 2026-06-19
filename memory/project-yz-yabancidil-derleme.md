@@ -12,6 +12,21 @@
 - `06-yontem-taslak.md` = cowork'ün kullanabileceği REFERANS iskelet (paralel taslak değil).
 
 ## 🔖 DEVAM NOKTASI
+
+### ⏩ ŞU AN NEREDEYİZ (2026-06-19, son durum)
+**Aşama: 47 dahil makalenin TAM METNİNİ toplama.**
+- Erişim haritası: `19-tam-metin-erisim-listesi.md` → ~29 OA (linkli) + **18 kapalı** (vetis).
+- Araçlar (`araclar/`): `pdf_indir.sh`, `zotero_doi_listesi.txt`, `COWORK-GOREV.md`.
+- **Zotero kullanıcı PC'sinde KURULU** (giriş: emre_sari). Connector + masaüstü tamam.
+- **PDF'ler YALNIZ YEREL PC'de** (`pdf/` → `.gitignore`'da). Buluta PDF YÜKLENMEZ. Tam metin
+  gerektiğinde kullanıcı o tek PDF'i paylaşır (Lin'de yaptığı gibi).
+- **Cowork'e devredildi:** OA PDF'leri indir → `pdf/`'e (yerel) → yalnız `_INDIRME_RAPORU.md` push.
+- **BEKLEYEN:** (a) cowork OA indirme raporu; (b) kullanıcı 18 kapalıyı vetis+Connector ile indirir;
+  (c) **insan tarama formu** → Cohen κ (insan↔Claude) + nihai N → v3'teki `[κ]`/`[N]`;
+  (d) sonra tam metinlerden **C1–C8 kodlama + "included studies" tablosu**; (e) ops: `raw_data`
+  push → tam özetler (xlsx'te özetler 300 krktr kırpık, BENİM kırpmam, kaynak tam).
+
+### Kalıcı kararlar
 - **🟩 YÖNTEMSEL KARAR SABİT (kullanıcı yönergesi, 2026-06-19): "Hakemde sorun çıkarmayacak,
   en savunulabilir yoldan git."** → **Klasik ikili tarama:** Screener-1 = İNSAN (otorite, tam-metin),
   Screener-2 = TEK YZ (Claude, `15b` mühürlü), birbirine kör. **Raporlanan güvenilirlik = bu ikisi
