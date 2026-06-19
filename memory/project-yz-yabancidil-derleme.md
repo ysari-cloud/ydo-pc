@@ -12,6 +12,19 @@
 - `06-yontem-taslak.md` = cowork'ün kullanabileceği REFERANS iskelet (paralel taslak değil).
 
 ## 🔖 DEVAM NOKTASI
+- **✅ AŞAMA 2 GELDİ + DENETLENDİ (cloud, 2026-06-19) → `09-cloud-denetim-ve-yonerge.md`.**
+  Cowork tam bibliyometriyi push etti (`analysis/`: 14-sayfa xlsx, 13 figür, PRISMA diyagramı,
+  VOSviewer dosyaları, scriptler, repro manifest, `08-bibliometri-bulgu-ozeti.md`).
+  - **PRISMA tam:** geniş 4.760→3.050 (retracted 4 çıktı); odaklı 477→329→223→40 öncelik→+16 köprü
+    =56 insan-set. Arama tarihi 2026-06-19. κ uydurulmadı. Bütünlük örnek düzeyde (sha256, WoS-CR).
+  - **Yıl dağılımı:** 2018-21=72 · 2022-23=246 · 2024-26=2.732 (%89,6). AS3 = "doğuş anı hızlı kayma".
+  - **🔴 KRİTİK CATCH:** AS3 çerçeve niceliği (`run_full.py` CONV_LEX/PROD_LEX) KİRLİ → `'generative'`
+    PROD_LEX'te olduğu için 2024-26 üretim sayısı yapay şişmiş; jenerik terimler + `oral` substring
+    hatası + substring eşleşme. **Temizlenip AS3 yeniden çalıştırılmadan yazıya GİRMEMELİ.** SliceKeywords
+    nitel olarak kaymayı bağımsız destekliyor → tez muhtemelen DOĞRU, sadece temiz nicelik gerek.
+  - Performans güvenilir (Çin 957/…/Türkiye 121; kaynaklar System 66+CALL 59 = hedef merdiven tepesi).
+- **Sıradaki:** (cowork) AS3 temiz re-run→Bulgular yaz · (kullanıcı) 56-set tam-metin+2.tarayıcı→κ ·
+  (cloud) taslakta atıf/DOI bütünlük + dergi çeyreklik teyidi. **Güvenlik:** GitHub token REVOKE edilsin.
 - **✅ EXPORT YAPILDI (kullanıcı, kurumsal erişim).** Korpus sayıları (gerçek veri, 2026-06-19):
   **Geniş katman (A AND D) = 3.050 kayıt** · **Odaklı katman (A AND D AND C) = 328 kayıt.**
   Geniş ≫300 → brif kalibrasyonu sağlandı, C aramada kalır. Dedup + PRISMA-identification tamam.
