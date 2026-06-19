@@ -1,0 +1,56 @@
+id	label	weight<Occurrences>	score<Avg. year>
+1	chatgpt	730	2024.72
+2	artificial intelligence	670	2024.7
+3	generative artificial intelligence	604	2025.14
+4	large language models	307	2024.88
+5	chatbot	241	2023.77
+6	language learning	234	2024.24
+7	efl	207	2024.98
+8	higher education	108	2024.84
+9	learning	101	2024.59
+10	writing	96	2025.04
+11	education	94	2024.64
+12	natural language processing	70	2024.23
+13	academic writing	69	2025.16
+14	language education	69	2024.81
+15	educational technology	69	2024.81
+16	efl writing	62	2025.1
+17	feedback	59	2025.08
+18	efl learners	56	2024.91
+19	language	55	2024.49
+20	motivation	49	2024.69
+21	l2 writing	46	2025.11
+22	english language teaching	44	2025.0
+23	conversational agent	42	2022.9
+24	ai in education	41	2025.0
+25	personalized learning	37	2024.95
+26	engagement	37	2025.38
+27	computer-assisted language learning	36	2024.17
+28	ai chatbots	36	2024.81
+29	language teaching	35	2024.71
+30	ai literacy	35	2025.4
+31	english	33	2024.64
+32	generative artificial intelligence (genai)	33	2025.15
+33	systematic review	33	2025.09
+34	second language writing	32	2024.84
+35	ai chatbot	32	2024.41
+36	assessment	32	2024.44
+37	critical thinking	32	2025.16
+38	intelligence	31	2025.03
+39	machine learning	31	2024.39
+40	self-efficacy	31	2025.06
+41	english language learning	30	2024.73
+42	academic integrity	30	2025.1
+43	technology	30	2024.77
+44	efl students	30	2024.67
+45	technology acceptance model	29	2025.21
+46	artificial	28	2024.75
+47	teaching	28	2024.82
+48	student engagement	28	2024.82
+49	prompt engineering	26	2025.0
+50	esl	26	2024.69
+51	automated writing evaluation	25	2025.04
+52	english language	25	2024.36
+53	self-regulated learning	25	2025.6
+54	(sic)(sic)(sic)(sic)	25	2025.68
+55	machine translation	24	2024.62

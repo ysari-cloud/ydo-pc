@@ -1,0 +1,29 @@
+id	label	weight<Occurrences>	score<Avg. year>
+1	China	957	
+2	USA	391	
+3	Saudi Arabia	192	
+4	United Kingdom	158	
+5	South Korea	144	
+6	Japan	140	
+7	Turkey	121	
+8	Malaysia	120	
+9	Indonesia	119	
+10	India	98	
+11	Taiwan	92	
+12	Vietnam	84	
+13	Thailand	79	
+14	Australia	78	
+15	Iran	72	
+16	Germany	69	
+17	Spain	69	
+18	United Arab Emirates	47	
+19	Canada	46	
+20	Italy	42	
+21	Singapore	36	
+22	Russia	36	
+23	Oman	36	
+24	France	32	
+25	Ukraine	32	
+26	Philippines	32	
+27	Jordan	31	
+28	New Zealand	29	
