@@ -31,10 +31,20 @@ Tüm adaylar SSCI Q1. Önerilen sıra: **ILE → ReCALL → CALL → JCAL → Sy
   + her derginin review-article kelime limiti = kullanıcının kurumsal JCR + dergi sayfasıyla
   son doğrulanacak (bazı dergi sayfaları bu ortamda 403).
 
-## Sıradaki adımlar
-1. Dergi merdiveni teyidini tamamla (ILE derleme politikası + System/ReCALL/JCAL).
-2. Kullanıcı WoS/Scopus export'unu getirince: dedup → PRISMA eleme → Bibliometrix/VOSviewer.
-3. §8a çerçevesiyle giriş/yöntem taslağı.
+## 📁 Üretilen dosyalar (projects/yz-yabancidil-derleme/)
+- `00-PROJE-BRIFI.md` — tam brif (değişmez referans).
+- `01-dergi-merdiveni.md` — SSCI dergi teyidi (§10.2 TAMAM).
+- `02-export-rehberi.md` — kullanıcının sabah izleyeceği WoS+Scopus arama&indirme kılavuzu.
+- `03-prisma-protokol.md` — a priori PRISMA 2020 protokolü (OSF-hazır iskelet).
+- `04-kodlama-kitabi.md` — C1–C8 codebook (tanım+karar kuralı+örnek), v0.1.
+- `05-giris-cercevesi-taslak.md` — §8a giriş argüman iskeleti, 12 `[ATIF:]` yuvası (uydurma YOK).
+
+## ⏭️ Kullanıcı sabah dönünce
+1. `02-export-rehberi.md`'yi izle → WoS+Scopus geniş katman sonuç SAYILARINI bana söyle (kalibrasyon).
+2. Export dosyalarını yükle → §10.3: dedup → PRISMA eleme (κ) → Bibliometrix/VOSviewer.
+3. `03`/`04`/`05` taslaklarını birlikte gözden geçir; açık kararlar (protokol §10): ikinci
+   tarayıcı? OSF ön-kayıt? odaklı alt-küme arama mı süzme mi?
+4. Atıf yuvaları SADECE doğrulanmış kaynakla doldurulur (DOI teyitli).
 
 > ⚠️ Araç notu: brif §9'daki `academic-paper`, `academic-paper-reviewer`,
 > `systematic-review` skill'leri kullanıcının YEREL PC kurulumundandı. Bu bulut ortamında
