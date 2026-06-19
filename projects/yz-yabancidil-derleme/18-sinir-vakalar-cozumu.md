@@ -9,7 +9,7 @@
 | # | Yazar-Yıl | Karar | Güven | Belirleyici olgu |
 |---|---|---|:---:|---|
 | 4 | Xu T. 2025 | **INCLUDE** | high | AIIV: GPT+TTS+lip-sync hattıyla üretim; 76 öğrenci **İngilizce kelime** → dil-eğitimi kesin (C1d) |
-| 13 | Lin 2025 | **INCLUDE** | **med** | Araştırmacılar **IDEA pedagojik çerçevesi** tasarlıyor (araç/tasarım); ama ağırlık öğrenci kompozisyonu — sınır |
+| 13 | Lin 2025 | **EXCLUDE** | high | **TAM METİN okundu (24s):** RQ1/RQ2 tamamen öğrenci-odaklı (YZ kullanımı + öğrenci çıktısı); bulgular öğrenci kompozisyonu. Öğretmen materyal co-development yalnız 1 yöntem cümlesi, analiz edilmiyor (öğrenci 220 vs öğretmen 50 geçiş). 19/35 ile aynı öğrenen-kutbu → tutarlılık gereği DIŞLA |
 | 19 | Risang Baskara 2024 | EXCLUDE | high | Öğrenci-üretimi podcast; öğretmen materyal üretimi yok (öğrenen kutbu) |
 | 24 | Bal 2024 | EXCLUDE | high | Yalnız opinion mining + duygu analizi (66 video); tutum ölçümü |
 | 25 | Mizumoto 2025 | **INCLUDE** | high | Auto Error Analyzer (Llama 3.3) **araç geliştirme+doğrulama**; kural-3 "aracın geliştirilmesi" |
@@ -19,23 +19,24 @@
 | 46 | Li 2023 | **INCLUDE** | high | Netnografi (140 video); **üretim pratikleri + locus kayması + eğitimci failliği** (RQ5 çekirdek) |
 | 56 | Nugroho 2023 | EXCLUDE | high | Yalnız öğrenci algı/fayda görüşü (18 öğrenci) |
 
-**Sınır vaka sonucu:** INCLUDE 5 {4,13,25,29,46} · EXCLUDE 5 {19,24,35,36,56}
+**Sınır vaka sonucu:** INCLUDE 4 {4,25,29,46} · EXCLUDE 6 {13,19,24,35,36,56}
 
 ## Güncellenmiş N (provizyonel, insan teyidi öncesi)
 - 3/3 sağlam INCLUDE: 43
-- Sınır → INCLUDE: +5 (4,13,25,29,46)
-- **TOPLAM DAHİL = 48**
-- DIŞLA = 8 → {19, 24, 33, 35, 36, 49, 55, 56}
-- (43+5)+(3+5) = 48+8 = 56 ✓
+- Sınır → INCLUDE: +4 (4,25,29,46)
+- **TOPLAM DAHİL = 47**
+- DIŞLA = 9 → {13, 19, 24, 33, 35, 36, 49, 55, 56}
+- (43+4)+(3+6) = 47+9 = 56 ✓
+- **#13 Lin tam metinle çözüldü (EXCLUDE) → artık "med"/belirsiz kayıt KALMADI; 10 sınır vakanın hepsi yüksek güvenle karara bağlı.**
 
 > Not: N=48, Claude'un katı(B) varyantıyla **sayıca** aynı ama **bileşimce farklı** — B konuşma-kutbunu
 > (31,41,42,45) dışlıyordu; bu çözüm konuşma-kutbunu A gereği DAHİL tutup bunun yerine öğrenen-kutbu
 > (19,35) + tutum (24,56) + puanlama (36) dışlıyor.
 
-## Tam-metin (vetis) önceliği
-- **Karar-kritik tek belirsiz: #13 Lin (med)** — tam metinde IDEA çerçevesinin ağırlığı teyit edilmeli.
-- Diğer 9'u yüksek güvenle karara bağlandı; tam metin yalnızca DAHİL edilenlerin **veri-çıkarımı** aşamasında gerekli (tarama kararı için değil).
-- Hiçbir kayıt "bulunamadı" değil; hepsi en az geniş-özet düzeyinde görüldü.
+## Tam-metin durumu
+- **#13 Lin: ÇÖZÜLDÜ** — kullanıcı tam metni buldu, okundu, EXCLUDE (yukarıda). Belirsiz kayıt kalmadı.
+- Tam metin bundan sonra yalnızca DAHİL edilen 47'nin **veri-çıkarımı / "included studies" tablosu** için gerekli (tarama kararı için değil).
+- Hiçbir kayıt "bulunamadı" değil; hepsi geniş-özet/tam-metin düzeyinde görüldü.
 
 ## Kaynak izleri (seçili)
 - Xu 2025: bera-journals.onlinelibrary.wiley.com/doi/10.1111/bjet.13530 ; eric.ed.gov EJ1473804

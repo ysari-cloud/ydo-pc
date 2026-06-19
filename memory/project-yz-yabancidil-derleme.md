@@ -18,9 +18,11 @@
   arası Cohen κ.** Gemini (`16b`) + Manus (`16c`) + derin-arama (`18`) yalnızca **Ek'te robustluk/
   şeffaflık** — multi-LLM ANA YÖNTEM diye SUNULMAZ (risk orada). **Nihai N = insan kararları**;
   YZ paneli N=48 yalnız öneri girdisi. Bunu bir daha kullanıcıya SORMA, bu çizgide ilerle.
-- **Sınır vakalar çözüldü (`18`):** 10 tartışmalı kayıt derin-aramayla karara bağlandı →
-  provizyonel N=48 (DAHİL +5: 4,13,25,29,46 · DIŞLA +5: 19,24,35,36,56). Tek "med" = #13 Lin
-  (vetis tam-metin önceliği). κ-paradoksu notu: INCLUDE yaygınlığı yüksek → ham anlaşma + κ birlikte raporla.
+- **Sınır vakalar çözüldü (`18`):** 10 tartışmalı kayıt derin-arama + #13 için tam-metin ile karara
+  bağlandı → **provizyonel N=47** (DAHİL +4: 4,25,29,46 · DIŞLA +6: 13,19,24,35,36,56).
+  **#13 Lin TAM METİNLE EXCLUDE** (RQ'lar öğrenci-odaklı, öğrenen-kutbu; 19/35 ile tutarlı). Belirsiz
+  kayıt KALMADI. DIŞLA(9) = {13,19,24,33,35,36,49,55,56}. κ-paradoksu: INCLUDE yaygınlığı yüksek →
+  ham anlaşma + κ birlikte raporla. Nihai N hâlâ insan tarama formuna bağlı (otorite insan).
 - **🟦 META-ANALİZ KARARI (kullanıcı, 2026-06-19): AYRI 2. MAKALE** (aynı korpustan), bu makaleye
   EKLENMEZ. Makale 1 = bibliyometri + sistematik derleme (nitel sentez), odaklı kalır; meta-analiz
   Makale 1 gönderilince başlar. Plan: `17-makale2-meta-analiz-plani.md` (feasibility kapısı: geniş
