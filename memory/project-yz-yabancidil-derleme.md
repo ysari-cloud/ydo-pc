@@ -22,6 +22,16 @@
   üzerinden (Scopus refs ayrı); haritalar için ham dosya→VOSviewer doğrudan; keyword thesaurus
   normalizasyonu (ChatGPT/GPT, AI, tekil-çoğul); ülke/kurum C1/C3 parse'ı gözle doğrula.
   Cowork çıktıları (tablolar + dahil-liste) bu repoya commit edilecek → ben yazım+doğrulamaya geçeceğim.
+- **✅ SENTEZ ÖN-TARAMASI İNCELENDİ (cloud, 2026-06-19) → `synthesis_screening.xlsx` repoda.**
+  Odaklı 329 (328 özetli) → 223 ön-uygun (journal+review, prod_score≥2, özet var) → 40 kısa liste
+  (relevans sıralı; atıf medyanı 2.5 → atıf SÜRMEMİŞ, relevans sürmüş — atıf-yanlılığı endişesi
+  GEÇERSİZ, geri çekildi). **Kısa liste %95 2024+ (38/40); tüm odaklı korpusun %92'si 2024+ —
+  KUSUR DEĞİL, üretim çerçevelemesinin 2024+ olgusu olması = teze BULGU.** C1: 28 içerik üreticisi
+  +6 eş-tasarımcı+4 özerk → teze birebir; 22 empirik. **Geçerli 2 rafine (cowork'e):** (1) 223→40
+  PRISMA'da "tam-metin öncelikli kısa liste" diye çerçevele, dışlama değil; (2) 2022-23'te 13 uygun
+  varken kısa listede 2 → erken-üretim makaleleri (kayma köprüsü) kaybolmasın, insan taramasına
+  40+kalan ~11 erken girsin. **AÇIK SORU:** AS3 (zaman-içi kayma) için GENİŞ korpusun (3.050) yıl
+  dağılımı kritik — "öncesi" temel hattı orada; cowork'ten o dağılımı iste.
 
 ## ⚖️ Değişmez ilkeler (brif §1)
 - Hiçbir kaynak/atıf/DOI/sayı UYDURULMAZ. Doğrulanamayan kaynak rapora girmez.
