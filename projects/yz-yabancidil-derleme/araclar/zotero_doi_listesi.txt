@@ -1,0 +1,56 @@
+ZOTERO TOPLU İÇE AKTARMA — Dahil 47 makale (DOI)
+==================================================
+Kullanım: Zotero > "Add Item(s) by Identifier" (sihirli değnek) > aşağıdaki DOI'leri
+TOPLU yapıştır > Zotero künyeleri çeker. Sonra: koleksiyonu seç > sağ tık >
+"Find Available PDF" → OA olanları otomatik indirir. Kapalılar için: tarayıcıda
+vetis/kütüphane proxy'sine giriş yapmışken Zotero Connector ile tek tık ekle.
+
+10.1177/13621688241303321
+10.1080/17501229.2026.2641791
+10.1080/17501229.2026.2662397
+10.1111/bjet.13530
+10.1080/09588221.2025.2474037
+10.1080/09588221.2025.2592620
+10.1016/j.acorp.2025.100168
+10.1186/s40468-026-00429-5
+10.1007/s11528-025-01048-2
+10.14569/ijacsa.2026.0170428
+10.5070/l2.53954
+10.28945/5699
+10.1016/j.caeai.2024.100223
+10.1177/14727978251337956
+10.29140/tltl.v7n2.102841
+10.18860/ijazarabi.v8i3.35367
+10.1016/j.system.2025.103610
+10.58304/ijts.260211
+10.1007/s10639-024-13117-9
+10.30564/fls.v7i6.9644
+10.1080/02619768.2025.2554682
+10.1017/s0272263125100934
+10.1093/elt/ccaf050
+10.24193/subbphilo.2025.2.11
+10.1080/10494820.2026.2634138
+10.1080/17501229.2026.2669321
+10.1080/17501229.2026.2668546
+10.33407/itlt.v102i4.5716
+10.29140/tltl.2026.103327
+10.1016/j.caeo.2024.100174
+10.24294/jipd.v8i9.6269
+10.1177/00336882231165060
+10.17509/ijost.v5i3.2868
+10.1016/j.chb.2018.12.023
+10.17509/ijost.v6i3.39150
+10.1108/itse-08-2020-0170
+10.3390/languages8030197
+10.1111/jcal.12610
+10.3390/app12073239
+10.1016/j.caeai.2023.100134
+10.1080/09588221.2021.1987272
+10.1177/00336882231168504
+10.3991/ijet.v18i10.37723
+
+--- DOI ile çekilemeyenler (Zotero Connector ile manuel ekle) ---
+#26 Pack 2023      → Teaching English with Technology (DOI 10.56297/... çözülmez); ERIC EJ1397173
+#32 Williyan 2024  → Teaching English with Technology; ERIC EJ1435643
+#47 Bonner 2023    → Teaching English with Technology; ERIC EJ1383526
+#44 Haristiani 2019→ DOI YOK; JESTEC 14(6):... GENGOBOT (jestec.taylors.edu.my)
