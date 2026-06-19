@@ -76,6 +76,19 @@ C1c eş-tasarımcı/yardımcı · C1d özerk üretici-geliştirici. (C1 için ay
 > statement. The information asymmetry (abstract-level AI vs. full-text human screening) is
 > acknowledged as a limitation."
 
+## 6b. ➕ EK: Üçüncü tarayıcı (Gemini) — 3-değerlendirici tasarımı (2026-06-19)
+Kullanıcı kararı: ikinci bir LLM (Gemini) **bağımsız Tarayıcı-3** olarak eklendi.
+- **Tarayıcı-3 = Gemini (YZ):** Claude'un mühürlü kararlarına ve cowork'e **kör**, aynı protokol +
+  kapsam A + aynı 56 başlık/özetle karar verir. İstem: `16-gemini-screener3-PROMPT.md` (kullanıcı
+  Gemini'ye yapıştırır, çıktıyı bana geri verir).
+- **κ planı (güncel):** 3 değerlendirici için **Fleiss κ** (genel uyum) + **çiftli Cohen κ**
+  (İnsan–Claude, İnsan–Gemini, Claude–Gemini). Claude–Gemini = modeller-arası güvenilirlik alt-bulgusu.
+- **Uzlaşı:** geçici karar = 3'ten 2 çoğunluk; **anlaşmazlık/azınlık** kayıtlarını insan tam metne
+  karşı adjudike eder → **nihai N**.
+- **Beyan (güncel):** "İki farklı büyük dil modeli (Claude, Gemini) başlık+özet düzeyinde bağımsız
+  ikinci/üçüncü tarayıcı olarak görev aldı; insan tarayıcı tam metni kullandı ve tüm anlaşmazlıkları
+  tam metne karşı adjudike etti." Asimetri (YZ=özet, insan=tam metin) sınırlama olarak belirtilir.
+
 ## 7. Değişmez ilke
 κ ve nihai N **uydurulmaz**; gerçek iki-tarayıcı kararlarından hesaplanır. Bu protokol, sürecin
 yeniden-üretilebilir ve denetlenebilir olmasını sağlar.

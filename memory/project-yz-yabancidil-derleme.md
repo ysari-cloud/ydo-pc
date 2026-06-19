@@ -21,8 +21,13 @@
     Kesin dışlama her iki varyant: #49 programlama-dili (konu-dışı), #55 genel-eğitim ajan-metodoloji,
     #33 genel-eğitim tutum (dil-özgü değil). Konuşma-kutbu (31,41,42,45) + puanlama (36) = varyanta bağlı.
   - `tam-metin-tarama-FORMU.xlsx` — kullanıcının dolduracağı boş form (KÖR: 15b'ye bakmadan).
-  - **SIRADA (kullanıcı):** kapsam varyantını seç (A/B) → FORMU tam metinden doldur → bana ver →
-    Cohen κ + anlaşmazlık listesi + **nihai N** hesaplarım; anlaşmazlıkları kullanıcı adjudike eder.
+  - **KARARLAR (kullanıcı):** kapsam = **A (kapsayıcı)** ✔ · **3 değerlendirici** ✔ (insan tam-metin +
+    Claude özet-mühürlü + **Gemini** özet). Gemini istemi: `16-gemini-screener3-PROMPT.md` (kör, A, 56 özet).
+    HTML pano üretildi: `sentez-tarama-PANO.html` (kullanıcıya gönderildi).
+  - **κ planı (güncel):** Fleiss κ (3 değerlendirici) + çiftli Cohen κ (İnsan–Claude, İnsan–Gemini,
+    Claude–Gemini). Uzlaşı=2/3 çoğunluk; azınlık/anlaşmazlık → insan tam-metin adjudikasyonu → nihai N.
+  - **SIRADA (kullanıcı):** (1) FORMU tam metinden doldur (15b'ye kör) · (2) Gemini'ye `16`'yı yapıştır,
+    çıktıyı bana ver → ben Fleiss+çiftli κ + anlaşmazlık listesi + **nihai N** hesaplarım → v3 [N]/[κ] dolar.
 - **✅ KIYAS YAPILDI: v2 (doğrudan) vs skill → `13-kiyas-raporu-v2-vs-skill.md`.**
   `Makale_Taslak_skill.docx` (commit 67ae855) geldi, bağımsız doğrulandı (12 atıf, 15 [CITE:],
   κ/N yer tutucu, temiz AS3, kirli %38 yok). Hüküm:
