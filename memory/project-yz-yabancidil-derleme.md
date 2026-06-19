@@ -12,6 +12,12 @@
 - `06-yontem-taslak.md` = cowork'ün kullanabileceği REFERANS iskelet (paralel taslak değil).
 
 ## 🔖 DEVAM NOKTASI
+- **🟦 META-ANALİZ KARARI (kullanıcı, 2026-06-19): AYRI 2. MAKALE** (aynı korpustan), bu makaleye
+  EKLENMEZ. Makale 1 = bibliyometri + sistematik derleme (nitel sentez), odaklı kalır; meta-analiz
+  Makale 1 gönderilince başlar. Plan: `17-makale2-meta-analiz-plani.md` (feasibility kapısı: geniş
+  korpusta aynı-sonuç + kontrol grubu + çıkarılabilir efekt-size ≥~10 çalışma kümesi VAR MI? — teyit
+  edilmedi). **NOT: meta-analiz metadatadan çıkmaz; empirik alt-küme tam metinlerinden istatistik ister.**
+  Bu makalenin türü sabit: *"A bibliometric analysis and systematic review"* (meta-analiz DEĞİL).
 - **🟡 κ/N TARAMASI KURULDU (cloud, 2026-06-19) — kullanıcı kararı: YZ ikinci tarayıcı (ben)+beyan.**
   56 kaydı bağımsız (özet-temelli, cowork ön-kodlamasına kör) taradım. 3 artefakt üretildi:
   - `15-tam-metin-tarama-protokolu.md` — ortak karar kuralı + κ planı + **kapsam varyantı kararı (§3:
