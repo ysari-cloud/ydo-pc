@@ -13,6 +13,26 @@
 
 ## 🔖 DEVAM NOKTASI
 
+### 🆕 2026-06-20 ÇÖZÜMLER (arama denetimi turu)
+- **Q2 TEKRARLANABİLİRLİK = ÇÖZÜLDÜ.** Dünkü "yazılı dizge 7.217 ≠ korpus 1.932" tutarsızlığı PROJE
+  KUSURU DEĞİL, eksik-okumaydı: korpus **kalibre as-run dizgeyle** kuruldu (GPT sürüm-spesifik
+  `GPT-3*/4*/5*`, çıplak CALL/L2 ÇIKARILDI, Scopus GPT JOKERSIZ). Bu dizgeler cowork yerel
+  `PROJECT_STATE.md`'deydi (REPODA DEĞİLDİ=risk) → **kalıcılaştırıldı:**
+  `araclar/ARAMA-DIZGELERI-FINAL-as-run.md` (makale-hazır, kanonik) + brief §4'e pointer. **Metot'ta
+  AS-RUN dizge raporlanır, niyet-edilen §4 değil; kalibrasyon=PRESS iyi pratiği, GÜÇ.** Yeniden analiz YOK.
+- **KEYWORD AÇIĞI (PRESS):** komşu 2 SLR (Deng & Jamaludin 2026 `10.1177/21582440261418315`; Griche &
+  Bennis 2026 `10.29140/tltl.2026.102827`) A bloğumuzda adlandırılmış araç (Gemini/Copilot/ERNIE/DALL-E…)
+  olmadığını gösterdi. Cowork delta: 152 ham → ~12 kesin ilgili (Gemini×5,Copilot×3…2024-25 = gerçek açık,
+  güncellik değil). AMA cowork delta'sı B'de çıplak L2/CALL kullandı (as-run'da yok)→gürültü şişti
+  (LLAMA=dil-yatkınlık testi). **TEMİZ TEKRAR talimatı: `araclar/COWORK-GOREV-3-temiz-delta.md`**
+  (artırılmış-A AND **as-run B** NOT as-run-A). **KARAR Q1=(a) other-methods:** temiz-ilgili kayıtlar
+  PRISMA "diğer yöntemlerle bulunan" yolundan → ~50 sentez seti; bibliyometrik 3.050 DONUK kalır
+  (rebuild YOK — 12/3050 marjinal). Artefaktlar: `20-arama-denetimi-keyword-audit.md`,
+  `21-komsu-calismalar-2026-landscape.md` (2026 rakipler — "bibliyometrik" tek başına artık ayırt edici
+  değil; ayrışma=materyal-üretimi+çok-dilli+GenAI-özgül). **İLKE (kullanıcıyla netleşti): esas =
+  tekrarlanabilir sorgu (A), "tüm literatüre hâkimiyet" DEĞİL; başıboş makale kovalama YOK, tek yapısal
+  kontrol yapılır, kilitlenir.** **BEKLEYEN:** cowork temiz-delta → ben denetler → ~50 netleşir → arama KAPANIR.
+
 ### ⏩ ŞU AN NEREDEYİZ (2026-06-20, son durum)
 **Aşama: 47 dahil makalenin TAM METNİNİ toplama — OA indirme TURU yapıldı.**
 - Erişim haritası: `19-tam-metin-erisim-listesi.md` → ~29 OA (linkli) + **18 kapalı** (vetis).
