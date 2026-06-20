@@ -16,7 +16,7 @@
 | 14 | Zheng 2024 | GOLD | https://www.sciencedirect.com/science/article/pii/S2666920X24000249 |
 | 16 | Karakaya K. 2025 | GOLD | https://files.eric.ed.gov/fulltext/EJ1484591.pdf |
 | 17 | Setiyawan 2025 | GOLD | https://ejournal.uin-malang.ac.id/index.php/ijazarabi/article/download/35367/12922 |
-| 22 | Wardat S. 2025 | GOLD | https://journals.bilpubgroup.com/index.php/fls/article/view/9644 |
+| ~~22~~ | ~~Wardat S. 2025~~ | DIŞLANDI | Dergi Scopus'tan 2025'te çıkarıldı, WoS'ta yok → bkz. `20-dahil-disi-karar-notlari.md` |
 | 23 | Wu 2025 | GREEN | https://www.researchgate.net/publication/395280021 |
 | 25 | Mizumoto 2025 | GOLD | https://www.cambridge.org/core/services/aop-cambridge-core/content/view/631312E8DD4EB9CE558EFF6FD16C6520/S0272263125100934a.pdf/automated-analysis-of-common-errors-in-l2-learner-production-prototype-web-application-development.pdf |
 | 26 | Pack A. 2023 | GOLD | https://files.eric.ed.gov/fulltext/EJ1397173.pdf |
