@@ -36,7 +36,7 @@
 | 50 | Mageira 2022 | GOLD | https://www.mdpi.com/2076-3417/12/7/3239 |
 | 51 | Zhai 2023 | GOLD | https://www.sciencedirect.com/science/article/pii/S2666920X23000139 |
 | 54 | Katsarou E. 2023 | GOLD | https://online-journals.org/index.php/i-jet/article/view/37723 |
-| 10 | Guo X. 2026 | (GOLD-bekliyor) | IJACSA tam-OA; Vol.17/4 indekslenince ücretsiz → thesai.org/Publications/IJACSA |
+| 10 | ~~Guo X. 2026~~ | DIŞLANDI | Tam metin elde edilemedi (sayı yayımlanmadı) → bkz. `20-dahil-disi-karar-notlari.md` |
 
 ## 🔒 KAPALI — VETİS/KÜTÜPHANE GEREKLİ (18)
 | # | Yazar-Yıl | DOI | Dergi |

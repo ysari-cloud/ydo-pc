@@ -19,3 +19,18 @@
 - Dahil edilen makale sayısı: 47 → **46**.
 - #22 için OA tam-metin indirme girişimi iptal; ilgili PDF toplanmayacaktır.
 - Aynı titizlik, derlemedeki diğer benzer-profilli yayıncı dergileri (ör. Bilingual/EnPress) için de gözden geçirilmelidir.
+
+## Karar 2 — #10 Guo X. (2026): DIŞLANDI (tam metin elde edilemedi)
+- **Makale:** #10, Guo X. (2026), *IJACSA* — "Incorporating Generative AI in Foreign Language Teaching Preparation".
+- **DOI (künye):** 10.14569/ijacsa.2026.0170428.
+- **Karar tarihi:** 2026-06-20.
+- **Gerekçe:** Makalenin tam metni erişilebilir değil. Dergi açık erişim (GOLD) olmasına rağmen ilgili sayı (Cilt 17, Sayı 4) tarama tarihinde yayımlanmamış/indekslenmemiş; ne yayıncı sitesinde ne de başka bir kaynakta tam metne ulaşılabilmiştir. PRISMA gereği "tam metin elde edilemedi (full text not retrievable)" gerekçesiyle dışlanmıştır.
+- **Sonuç:** #10 derlemeden çıkarılmıştır. Yayımlandığında yeniden değerlendirme yapılabilir.
+
+### Güncel sayım
+- Dahil makale: 47 → **45** (önce #22 Wardat, sonra #10 Guo dışlandı).
+
+## İlgili sistematik derlemeler (KORPUSA DEĞİL — atıf/konumlandırma kaynağı)
+Birincil çalışma olmadıkları için dahil korpusa girmezler; giriş, tartışma ve snowball için kullanılır:
+- Deng, L. & Jamaludin, K. A. (2026). Roles of Generative Artificial Intelligence (GenAI) in English as a Foreign Language (EFL) Instruction: A Systematic Literature Review. *SAGE Open*, 16(1), 1–17. DOI 10.1177/21582440261418315. (WoS+Scopus'tan 51 makale; EFL odaklı.)
+- Griche, M. S. & Bennis, M. (2026). Generative Artificial Intelligence Integration in Foreign Language Education in Higher Education: A Systematic Literature Review. *Technology in Language Teaching & Learning (TLTL)*, DOI 10.29140/tltl.2026.102827. (PICo/PRISMA; 152 çalışma; yabancı dil + YÖ.)
