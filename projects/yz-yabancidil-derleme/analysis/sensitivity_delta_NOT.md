@@ -36,3 +36,9 @@ dizgemiz yalnızca "ChatGPT/GenAI/LLM/chatbot" türü terimler içerdiği için,
 - `analysis/sensitivity_delta.csv` — 152 kayıt, sütunlar: relevant(Y/?/EXCL/N), new_term_hit, modal,
   year, journal, doc_type, title, doi, db, recency, note.
 - Ham export'lar: `analysis/raw_data/` (yerelde; WoS tam-kayıt + Scopus başlık listesi) — repoya konmadı.
+
+
+## Kontrol koşusu (in-session, 2026-06-20)
+- WoS: araçlı 7.770 vs kontrol(araçsız) 7.217 → **araç katkısı +553**.
+- Scopus: araçlı 7.178 vs kontrol 6.914 → **araç katkısı +264**.
+- Çoğu gürültü; gerçek ilgili ~12. Tarihsel orijinal broad (≈1.932/2.824) << rekonstrüksiyon → asıl korpus daha dar konfigürasyonla kurulmuş (metotta netleştir).
