@@ -13,6 +13,15 @@
 
 ## 🔖 DEVAM NOKTASI
 
+### 🆕 2026-06-20 ARAMA FASLI KAPANDI (denetim sonucu)
+- **Temiz delta (as-run B) → cloud DENETİMİ (`22-keyword-delta-DENETIM-ve-karar.md`):** cowork "12 alan-ilgili"
+  buldu ama "alana ilgili ≠ SENTEZ kapsamına (materyal-üretim) ilgili". Kapsam mercekiyle: **yalnız ~2 net IN
+  (#6 Gemini Storybook, #7 AI text-to-image storytelling) + 1 sınır (#8); diğer 9 öğrenen-kutbu/feedback →
+  sentez DIŞI** (ECNU/Mi mantığı). Yani keyword açığının SENTEZE etkisi 12 değil **~2-3.** Bibliyometriye 0.
+- **KESİN KARAR:** #6,#7(+t.metinle #8) → PRISMA "other methods" → sentez **45→~47-48** (57 değil). Diğer 9+retracted
+  gerekçeli dışlanır. Bibliyometrik 3.050 DONUK. Keyword açığı Metot'ta sınırlılık+supplementary olarak belgelenir.
+  Nihai dahil/dışla = insan tam-metin (otorite). **ARAMA FASLI KAPANDI → sıradaki: tam metin + C1–C8 kodlama.**
+
 ### 🆕 2026-06-20 ÇÖZÜMLER (arama denetimi turu)
 - **Q2 TEKRARLANABİLİRLİK = ÇÖZÜLDÜ.** Dünkü "yazılı dizge 7.217 ≠ korpus 1.932" tutarsızlığı PROJE
   KUSURU DEĞİL, eksik-okumaydı: korpus **kalibre as-run dizgeyle** kuruldu (GPT sürüm-spesifik
