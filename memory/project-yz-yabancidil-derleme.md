@@ -13,6 +13,21 @@
 
 ## 🔖 DEVAM NOKTASI
 
+### 🔢 NİHAİ SAYI (2026-06-20, KİLİTLİ — ampirik-only tutarlı uygulandı)
+- **KURAL:** dahil = **yalnız ampirik birincil** (quant/qual/mixed, veri toplayan). Ampirik-olmayan ÇIKAR.
+  **Derleme = ikincil = tanımı gereği ampirik DEĞİL → otomatik çıkar** (ayrı karar değil, aynı kuralın
+  sonucu; Deng/Griche emsali de böyle). Bunu bir daha "soru" yapma.
+- **45'ten çıkan 9 (hepsi non-empirical):** kavramsal/feature (11 Michelson, 26 Pack, 27 Shin, 47 Bonner,
+  53 Hockly) + derleme (38 Law, 48 Huang, 51 Zhai, 54 Katsarou → `00_ikincil_kaynaklar/`'a, snowball/konumlandırma).
+- **45 − 9 = 36 ampirik birincil.** + keyword other-methods (ampirik olanlar; #7,#8 ampirik, #6 Gemini
+  Storybook=uygulayıcı dergisi muhtemelen betimleyici→çıkabilir) → net **+1-2**. **KİLİTLİ NİHAİ ≈ 37-38**
+  (tam-metinde #16 Karakaya/#26 ampirik teyidiyle ±birkaç). **"45" artık dahil sayısı DEĞİL** (o ham/ön sayıydı).
+- **#27 Shin** zaten non-empirical → çıktı → Oxford erişim sorunu MOOT.
+- **DİL:** yayın dili **İngilizce-only** kalır (standart/Deng gibi; FR/AR eklenmez). Çok-dillilik=incelenen
+  HEDEF dil (Almanca/Arapça/Japonca öğretimi), yayın dili değil — karıştırma.
+- **Funnel kıyas:** Deng 284→51, Griche 329→152, Two Years→144; BİZ odaklı ~328→~37-38 + geniş 3.050
+  (bibliyometri). N'imiz düşük çünkü C-bloğu (materyal-üretim) onlardan dar — kusur değil, odaklılık.
+
 ### 🆕 2026-06-20 ARAMA FASLI KAPANDI (denetim sonucu)
 - **Temiz delta (as-run B) → cloud DENETİMİ (`22-keyword-delta-DENETIM-ve-karar.md`):** cowork "12 alan-ilgili"
   buldu ama "alana ilgili ≠ SENTEZ kapsamına (materyal-üretim) ilgili". Kapsam mercekiyle: **yalnız ~2 net IN
