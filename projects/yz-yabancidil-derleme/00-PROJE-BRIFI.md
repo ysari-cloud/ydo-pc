@@ -81,6 +81,11 @@ AND
 ```
 Scopus — odaklı alt-küme: yukarıdakine `AND (C bloğu)` eklenir.
 
+> ⭐ DİKKAT (2026-06-20): Yukarıdaki dizgeler **tasarım NİYETİ**dir. Korpusu (3.050/328) fiilen üreten
+> **AS-RUN / kalibre dizgeler** (GPT sürüm-spesifik, çıplak CALL/L2 çıkarılmış, Scopus GPT jokersiz)
+> ayrı dosyada: `araclar/ARAMA-DIZGELERI-FINAL-as-run.md`. **Metot/Appendix'te O dosya raporlanır.**
+> Niyet-edilen çıplak GPT*/CALL/L2 dizgesi ~7.217/6.914 verir (korpus değil); bu farkı karıştırma.
+
 **Kalibrasyon notları:** Geniş katman <300 kayıt verirse `C` aramadan çıkarılıp yalnızca kodlama aşamasında uygulanır. `GPT*` aşırı gürültü yaparsa `"GPT-4*" OR "GPT-3*"` ile daraltılır. `L2` ve `CALL` gürültüsü kontrol edilmeli (alan-dışı eşleşmeler için başlık-özet taramasında gözden geçir).
 
 ## 5. Dahil etme / dışlama ölçütleri
