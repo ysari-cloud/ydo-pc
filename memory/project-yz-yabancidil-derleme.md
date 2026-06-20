@@ -13,6 +13,20 @@
 
 ## 🔖 DEVAM NOKTASI
 
+### 🔑 DAHİL/DIŞLA ÖLÇÜTÜ NETLEŞTİ (2026-06-20, KANONİK → `23-dahil-olcutu-ve-derlemeler.md`)
+- Dahil (sentez) = ÜÇÜ birden: (1) **birincil ampirik** (review/kavramsal değil), (2) **üretken (generative) YZ**
+  (kural-tabanlı/ChatGPT-öncesi değil), (3) **üretim kapsamı + YZ=ÜRETİCİ rolü**. **🔑 Belirleyici soru:
+  "üretim oldu mu?" DEĞİL, "üreten ÜRETKEN YZ mi?"** YZ'nin (a) ürün olduğu (elle kodlanmış araç) veya
+  (b) yalnız konuşma/öğretici olduğu çalışmalar DIŞARIDA.
+- **4 dışlama kodu (yazıma hazır):** E1 ikincil/derleme (38,48,51,54) · E2 birincil-değil/kavramsal (11,27,47,53;
+  26,16 teyit) · E3 **üretken-olmayan YZ** (41/43/44 Haristiani-Gengobot, 50 Mageira-AsasaraBot, 42 Fryer; YZ=ürün,
+  pre-ChatGPT → **giriş'te "üretim tavanı" BASELINE atfı**) · E4 üretim-dışı/öğrenen-konuşma-feedback (31 Mohamed,
+  45 Bailey, 42 Fryer; + ECNU/Mi, NLP-speaking).
+- **5 konuşma-kutbu vakası KARAR (kullanıcı onayladı, tam-metinden):** 31 Mohamed=ÇIK(E4) · 42 Fryer=ÇIK(E4+E3) ·
+  45 Bailey=ÇIK(E4) · 41 Haristiani=ÇIK(E3, Gengobot elle kodlanmış) · 50 Mageira=ÇIK(E3, AsasaraBot pre-ChatGPT).
+  41/50 BASELINE atıf olarak kalır.
+- Kaba nihai sentez sayısı: 45 − (E1≈4+E2≈4+E3/E4≈6-8) + keyword(1-2) → **~28-34** (kesin=tam-metin uygulaması).
+
 ### 🔢 NİHAİ SAYI (2026-06-20, KİLİTLİ — ampirik-only tutarlı uygulandı)
 - **KURAL:** dahil = **yalnız ampirik birincil** (quant/qual/mixed, veri toplayan). Ampirik-olmayan ÇIKAR.
   **Derleme = ikincil = tanımı gereği ampirik DEĞİL → otomatik çıkar** (ayrı karar değil, aynı kuralın
