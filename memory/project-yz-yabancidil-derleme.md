@@ -13,6 +13,19 @@
 
 ## 🔖 DEVAM NOKTASI
 
+### 🔄 ÜRETİCİ KAPSAMI GENİŞLEDİ (2026-06-21, kullanıcı kararı KESİN)
+- **Üreten = ÖĞRETMEN *veya* ÖĞRENCİ *veya* eş-üretim.** Tez "öğretmen-üretici" ile SINIRLI DEĞİL → çerçeve
+  "dil eğitiminde ÜRETİM (öğretmen+öğrenen)". Belirleyici: **ÜRETİM vs KULLANIM** — GenAI ile **artefakt
+  üretildi mi** (metin/görsel/podcast/kompozisyon/kart/uygulama)? Üreten kimliği filtre DEĞİL. Salt kullanım
+  (pratik/konuşma/feedback/tutum, artefakt yok) → DIŞARI.
+- **GERİ-ALMA (önceki oturumda yanlış elenen 3 öğrenen-üretim):** **#13 Lin** (çok-kipli kompozisyon) · **#19
+  Risang Baskara** (öğrenci podcast) · **#35 Guo** (Almanca eş-üretim, çok-dillilik bonusu) → tam-metin teyidiyle
+  DAHİL. İkincil kontrol: #24 Bal, Kol-2 A04. Değişmeyen dışlamalar: 33,36,49,55,56.
+- **E4 düzeltildi:** E4 = üretim-dışı KULLANIM; öğrenen-ÜRETİM E4 DEĞİL (içeri).
+- **Kaba sayı güncel:** önceki ~28-34 **+3 (13,19,35)** + keyword(A06,C02 ±C04) → **~31-37** (kesin=tam-metin).
+- **Cowork talimatı:** `araclar/COWORK-GOREV-4-nihai-dahil-disla.md` → 3 ölçütü tüm tam metinlere uygula +
+  13/19/35 geri-alma teyidi + E3 testi (43/44/52) + 24/A04 ikincil + Kol-2 → `kol2/25-nihai-included-listesi.md`.
+
 ### 🔑 DAHİL/DIŞLA ÖLÇÜTÜ NETLEŞTİ (2026-06-20, KANONİK → `23-dahil-olcutu-ve-derlemeler.md`)
 - Dahil (sentez) = ÜÇÜ birden: (1) **birincil ampirik** (review/kavramsal değil), (2) **üretken (generative) YZ**
   (kural-tabanlı/ChatGPT-öncesi değil), (3) **üretim kapsamı + YZ=ÜRETİCİ rolü**. **🔑 Belirleyici soru:
