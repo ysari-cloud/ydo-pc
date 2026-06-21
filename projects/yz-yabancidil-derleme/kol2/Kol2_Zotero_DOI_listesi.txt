@@ -1,0 +1,13 @@
+Zotero → büyüteç/sihirli değnek ikonu ("Add Item(s) by Identifier") → aşağıdaki satırları topluca yapıştır.
+Zotero künyeyi otomatik çeker; ardından öğeleri seçip sağ tık → "Find Available PDF" ile açık-erişim PDF'leri ekler.
+(Yalnızca DOI'si doğrulanmış kayıtlar listelendi. DOI'siz olanlar RIS dosyasında.)
+
+10.5430/wjel.v14n5p501
+10.1016/j.caeo.2025.100302
+10.5430/wjel.v15n8p174
+10.1080/00094056.2025.2574243
+10.26858/ijole.v10i1.83711
+10.24093/awej/vol17no1.25
+10.7592/EJHR2024.12.4.928
+10.37237/202507
+10.1080/00220671.2025.2510400
