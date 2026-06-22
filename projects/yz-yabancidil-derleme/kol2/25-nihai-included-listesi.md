@@ -1,5 +1,45 @@
 # 25 — NİHAİ DAHİL/DIŞLA LİSTESİ (Görev-4, üretim/artefakt ölçütü)
 
+---
+## ⏩ GÜNCEL (Görev-5, 2026-06-21) — NİHAİ DAHİL N = 24 (+C04 sınır → 25)
+> Aşağıdaki Görev-4 tablosu KORUNDU; bu bölüm Görev-5 recheck'i sonrası **yürürlükteki** nihai listedir. Kanıt cümleleri: `26-recheck-sonuclari.md`.
+
+**Değişim:** Görev-4 (18) → **+6** (7 Lenko, 18 Lo, 23 Wu, 34 Zaiarna, 40 Lee, 29 Bao) · **−2** (15 Shen=BERT/üretken değil, 32 Williyan=algı) → ana **22** + Kol-2 **2** = **24**.
+
+### NİHAİ DAHİL (24)
+| # | Yazar-Yıl | Araç | Üretici | Artefakt | Dergi |
+|---|---|---|---|---|---|
+| 1 | Xin 2024 | GenAI | öğretmen | okuma materyali | Language Teaching Research |
+| 2 | Agus 2026 | GenAI | öğretmen | ELT materyali | Innovation in LLT |
+| 3 | Ngo 2026 | GenAI | öğretmen | ESAP materyali | Innovation in LLT |
+| 4 | Xu T. 2025 | GenAI | öğretmen | öğretim videosu | British J. Educational Technology |
+| 5 | Allaithy 2025 | AI | öğretmen | Arapça materyal | Computer Assisted Language Learning |
+| 6 | Lin 2025 (#6) | GenAI | öğretmen | L2 Çince okuma materyali | Computer Assisted Language Learning |
+| 7 | Lenko-Szymanska 2026 | ChatGPT | aday öğretmen | öğretim etkinliği/materyali | Applied Corpus Linguistics |
+| 8 | Park 2026 | GenAI | öğretmen | öyküye-dayalı okuma materyali | Language Testing in Asia |
+| 13 | Lin 2025 (#13) | GenAI | öğrenci | çok-kipli kompozisyon | Computers and Composition |
+| 14 | Zheng 2024 | ChatGPT | öğretmen | öğretim materyali | Computers & Education: AI |
+| 17 | Setiyawan 2025 | GenAI | öğretmen/araştırmacı | Arapça öğretim medyası | IJAZ ARABI |
+| 18 | Lo 2025 | ChatGPT-4 | öğretmen | GE okuma/dinleme materyali | System |
+| 19 | Risang Baskara 2024 | GenAI | öğrenci | EFL podcast | Language Teaching Research Quarterly |
+| 20 | Nguyen N.H. 2026 | ChatGPT | öğretmen | yoğun-okuma materyali | Int. J. of TESOL Studies |
+| 23 | Wu 2025 | GenAI | aday öğretmen | ders planı + storybook | European J. Teacher Education |
+| 28 | Ursa 2025 | ChatGPT | öğretmen | RFL (Romence) materyali | Studia UBB Philologia |
+| 29 | Bao 2026 | LLM (RAG/çok-ajan) | sistem/öğretmen | EFL içerik üretimi | Interactive Learning Environments |
+| 30 | Al-Maawali 2026 | GenAI | öğretmen | kültürel-kapsayıcı materyal | Innovation in LLT |
+| 34 | Zaiarna 2024 | ChatGPT | öğretmen | sınav/değerlendirme görevleri | Information Technologies & Learning Tools |
+| 35 | Guo 2026 | LLM | eş-üretim | Almanca yaratıcı yazma | Innovation in LLT *(tam-metin teyit bekliyor)* |
+| 37 | Getino-Diez 2026 | GenAI | öğretmen | başlangıç düzeyi L2 metinleri | Technology in Lang. Teaching & Learning |
+| 40 | Lee 2023 | CopyAI/GPT-3 | öğrenci | storybook | RELC Journal |
+| A06 | Le & Le 2025 | text-to-image | öğrenci | dijital öykü/çizgi-roman | CALL-EJ |
+| C02 | Temiz 2025 | DALL-E | öğretmen | söz varlığı kartları | The Journal of Educational Research |
+
+**SINIR (kullanıcı mührü):** C04 Asadi 2025 — AI örnek+feedback; cloud oyu İÇERİ.
+**Görev-5 yeni DIŞLAMALAR:** 15 Shen (E3/üretken-değil, BERT) · 21 Liu (E4) · 12 Bataineh (E4) · 32 Williyan (E4) · 39 Nguyen P.T. (JIPD predatory/discontinued).
+**PRISMA iki-kollu:** Kol-1 = 22 · Kol-2 = 2 · **NİHAİ N = 24** (C04 ile 25). Bibliyometrik 3.050 DONUK (predatory sınırlılığı: EnPress-ailesi 23 kayıt — bkz. `26`).
+
+
+
 > Tarih: 2026-06-21 · Cowork uygulaması · Ölçüt KİLİTLİ: `araclar/COWORK-GOREV-4-nihai-dahil-disla.md` + `analysis/23-dahil-olcutu-ve-derlemeler.md`.
 > Numaralandırma = ana tarama listesi (`synthesis_screening.xlsx` Human_screening_set, #1–56). Kol-2 = duyarlılık kolu (A/B/C).
 > Tüm kararlar tam-metin (yerel `TAM_METIN/`, `TAM_METIN_KOL2/`) veya öz+ön-kodlamadan; teyit gerektiren noktalar AÇIKÇA işaretli.
