@@ -13,6 +13,15 @@
 
 ## 🔖 DEVAM NOKTASI
 
+### ✅ NİHAİ DAHİL SETİ KİLİTLENDİ (2026-06-21, Görev-5 + cloud denetim GEÇTİ)
+- **NİHAİ N = 24** (+ C04 mührü → 25). Liste: `kol2/25-nihai-included-listesi.md` · kanıt: `kol2/26-recheck-sonuclari.md` (commit `f0d3da7`).
+- Görev-4 (18) → **+6 IN** (7 Lenko, 18 Lo, 23 Wu, 34 Zaiarna, 40 Lee, 29 Bao — hepsi tam-metin artefakt kanıtı) **−2** (15 Shen=EGWS-BERT üretken değil; 32 Williyan=görüşme/algı) → ana **22** + Kol-2 **2** (A06, C02) = **24**.
+- **Cloud denetimi GEÇTİ** (fazla-budama doğru düzeltildi; 21 Liu/12 Bataineh gerçekten artefaktsız→E4 doğru).
+- **Predatory tarama:** sentez seti TEMİZ (EnPress/JIPD/FLS yok). Geniş 3.050'de **23 EnPress** (FLS 19+JIPD 2+ESP 2, %0,75) → **bibliyometride sınırlılık + duyarlılık (3.050→3.027, desen değişmez).**
+- **AÇIK MÜHÜRLER:** (1) **C04 Asadi** = kullanıcı kararı (cloud oyu İÇERİ → 25; AI örnek-metin=artefakt, 18 Lo ile aynı mantık). (2) **#35 Guo** tam-metin teyidi bekliyor (öz net: Almanca insan-LLM yaratıcı yazma; Innovation in LLT, DOI 10.1080/17501229.2026.2678315 → indir/teyit; muhtemelen kalır).
+- **ARAMA+ELEME FASLI** C04 mührü + #35 teyidiyle resmen KAPANIR → sıradaki: **C1–C8 kodlama** (24-25 makale).
+
+
 ### 🔄 ÜRETİCİ KAPSAMI GENİŞLEDİ (2026-06-21, kullanıcı kararı KESİN)
 - **Üreten = ÖĞRETMEN *veya* ÖĞRENCİ *veya* eş-üretim.** Tez "öğretmen-üretici" ile SINIRLI DEĞİL → çerçeve
   "dil eğitiminde ÜRETİM (öğretmen+öğrenen)". Belirleyici: **ÜRETİM vs KULLANIM** — GenAI ile **artefakt
