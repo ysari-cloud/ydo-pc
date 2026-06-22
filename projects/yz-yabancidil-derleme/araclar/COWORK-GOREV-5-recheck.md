@@ -37,3 +37,17 @@
 - `kol2/26-recheck-sonuclari.md` — her madde için karar (İÇERİ/E4/E3/DIŞLA) + tam-metin kanıt cümlesi.
 - `kol2/25`'i güncelle: nihai DAHİL listesi + güncel **N**.
 > Not: C04 = kullanıcı mührü bekliyor (cloud oyu: İÇERİ). Onu "SINIR" bırak.
+
+---
+
+## EK (2026-06-21) — #39 kararı + PREDATORY dergi taraması
+
+### #39 Nguyen P.T. → **DIŞLA (karar verildi)**
+- Doğru PDF (6269) teyit edildi: ChatGPT ile **Çince-L2 ders planı/materyal üretimi** → içerik 4 kriteri geçiyordu.
+- **AMA dergi = JIPD (EnPress):** 17 Ocak 2025'te **Scopus'tan ÇIKARILDI** (predatory pattern: 1.200+ makale/yıl, yüksek APC), **WoS'ta yok.** → **#22 Wardat ile tutarlı → DIŞLA** (dergi/indeks+kalite). Sebep içerik değil, dergi.
+
+### YENİ — predatory/discontinued dergi taraması (önemli, korpus bütünlüğü)
+JIPD Scopus'taydı (2024'e dek) ve yılda 1.200+ basıyordu → aramamız Scopus'u taradığı için korpusta başka JIPD/EnPress kaydı olabilir.
+1. **Sentez setindeki** tüm DAHİL kayıtların **dergilerini kontrol et:** JIPD veya başka **Scopus-discontinued/predatory** dergi (özellikle EnPress) var mı? Varsa #22/#39 mantığıyla **DIŞLA.**
+2. **Geniş 3.050 korpusta** kaç JIPD / predatory-discontinued kayıt var? **Listele** → bibliyometriden temizle ya da en azından **sınırlılık** olarak raporla (predatory şişme riski; özellikle AS1 yayın-hacmi ve kaynak-dağılımını bozabilir).
+- Çıktı: `kol2/26-recheck-sonuclari.md`'ye **"Predatory tarama"** bölümü + etkilenen kayıt listesi + temizlenmiş n.
