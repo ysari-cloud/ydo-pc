@@ -14,12 +14,11 @@
 ## 🔖 DEVAM NOKTASI
 
 ### ✅ NİHAİ DAHİL SETİ KİLİTLENDİ (2026-06-21, Görev-5 + cloud denetim GEÇTİ)
-- **NİHAİ N = 24** (+ C04 mührü → 25). Liste: `kol2/25-nihai-included-listesi.md` · kanıt: `kol2/26-recheck-sonuclari.md` (commit `f0d3da7`).
-- Görev-4 (18) → **+6 IN** (7 Lenko, 18 Lo, 23 Wu, 34 Zaiarna, 40 Lee, 29 Bao — hepsi tam-metin artefakt kanıtı) **−2** (15 Shen=EGWS-BERT üretken değil; 32 Williyan=görüşme/algı) → ana **22** + Kol-2 **2** (A06, C02) = **24**.
-- **Cloud denetimi GEÇTİ** (fazla-budama doğru düzeltildi; 21 Liu/12 Bataineh gerçekten artefaktsız→E4 doğru).
-- **Predatory tarama:** sentez seti TEMİZ (EnPress/JIPD/FLS yok). Geniş 3.050'de **23 EnPress** (FLS 19+JIPD 2+ESP 2, %0,75) → **bibliyometride sınırlılık + duyarlılık (3.050→3.027, desen değişmez).**
-- **AÇIK MÜHÜRLER:** (1) **C04 Asadi** = kullanıcı kararı (cloud oyu İÇERİ → 25; AI örnek-metin=artefakt, 18 Lo ile aynı mantık). (2) **#35 Guo** tam-metin teyidi bekliyor (öz net: Almanca insan-LLM yaratıcı yazma; Innovation in LLT, DOI 10.1080/17501229.2026.2678315 → indir/teyit; muhtemelen kalır).
-- **ARAMA+ELEME FASLI** C04 mührü + #35 teyidiyle resmen KAPANIR → sıradaki: **C1–C8 kodlama** (24-25 makale).
+- **NİHAİ N = 25 — MÜHÜRLENDİ. ARAMA+ELEME FASLI KAPANDI.** Liste: `kol2/25` · kanıt: `kol2/26`.
+- ana **22** + Kol-2 **3** (A06, C02, **C04**) = **25.**
+- **C04 Asadi → İÇERİ** (kullanıcı mührü + kural "artefakt üretiliyorsa etki de ölçülse içeri", #18/#34 ile tutarlı; AI 'sample writings' üretiyor + generative=E3 değil; en zayıf üretim vakası ama gerekçeli). *(cloud önce IN→OUT→IN; tam-metin + tutarlılık → IN.)*
+- **#35 Guo → İÇERİ (tam-metin TEYİTLİ)**: "When LLMs meet creativity: GFL writing through Human-LLM co-creation" (Innovation in LLT, DOI 10.1080/17501229.2026.2678315); kontrollü deney 40 GFL öğr., insan-LLM yaratıcı yazma eş-üretimi; Almanca=çok-dillilik kozu.
+- Görev-4(18)→+6 IN(7,18,23,34,40,29) −2(15 BERT,32 algı)→22; +Kol-2(A06,C02,C04)=25.
 
 
 ### 🔄 ÜRETİCİ KAPSAMI GENİŞLEDİ (2026-06-21, kullanıcı kararı KESİN)
