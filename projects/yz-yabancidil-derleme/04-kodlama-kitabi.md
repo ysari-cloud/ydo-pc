@@ -9,7 +9,14 @@
 - Birim = tek çalışma (makale/derleme).
 - Her boyut için EN UYGUN kategori(ler) seçilir; C7/C8 çoklu olabilir.
 - Belirsizse → tam metinden alıntı + "karar notu" sütununa gerekçe.
-- Kodlama tablosu sütunları: `ID | Yazar-Yıl | C1 | C2 | C3 | C4 | C5 | C6 | C7 | C8 | Alıntı/Not`.
+- Kodlama tablosu sütunları (v1.0): `ID | Yazar-Yıl | Araç | Üretici | Artefakt türü | Dil | C1 | C2 | C3 | C4 | C5 | C6 | C7 | C8 | Alıntı/Not`.
+
+## Hibrit kodlama yordamı (tümdengelim + tümevarım)
+1. **Tümdengelimli geçiş:** her makaleyi C1–C8 iskeletiyle kodla (a priori = tezin C1 tipolojisi).
+2. **Tümevarımlı kapı:** makale mevcut kategoriye OTURMUYORSA zorlama → "yeni kod adayı" + tam-metin alıntısı işaretle.
+3. **Uzlaşı + güncelleme:** yeni kod adayları toplanır → cloud ile gözden geçirilir → şemaya eklenir (tarih + versiyon notu). ("Doğrula → örtmezse ekle" döngüsü.)
+4. **Doğrulama:** ≥%20 alt-kümede ikinci kodlayıcı (insan ↔ YZ) → kodlayıcılar-arası uyum (κ); anlaşmazlık tam-metinle çözülür.
+5. **İz:** her hücre kararı için kısa alıntı/not (denetlenebilirlik).
 
 ---
 
@@ -20,10 +27,12 @@
 - **C1c — Eş-tasarımcı / yardımcı:** öğretmenle birlikte tasarlar, taslak/öneri verir.
 - **C1d — Özerk üretici-geliştirici:** uygulama/site/courseware gibi *yazılım düzeyinde* ürün üretir.
 - *Karar kuralı:* baskın işlev seçilir; birden çok belirginse en üst düzey üretim (d>c>a>b) işaretlenir, not düşülür.
+- *Korpus-gözlemli artefakt türleri (25):* okuma/öğretim materyali · ders planı · storybook · podcast · yaratıcı yazma · öğretim videosu · kelime kartı · dijital öykü/çizgi-roman · sınav/değerlendirme görevi · örnek metin (model deneme) · öğretim medyası. *(tümevarımla genişletilebilir.)*
+- *Korpus araçları:* ChatGPT/GPT · Gemini · Copilot · Claude · DALL-E/text-to-image · LLM+RAG.
 
 ## C2. Üretim merkezi (kim üretiyor?)
 Materyal/ürün üretiminin ağırlık merkezi kimde?
-- **C2a — Yayıncı/uzman.**  **C2b — Öğretmen-üretici.**  **C2c — Öğrenen-üretici.**
+- **C2a — Yayıncı/uzman.** **C2b — Öğretmen-üretici.** **C2b⁺ — Aday öğretmen (öğretmen eğitimi).** **C2c — Öğrenen-üretici.** **C2d — İnsan-YZ eş-üretimi.** *(Korpusta: öğretmen çoğunluk · öğrenci 3 · aday öğretmen 2 · eş-üretim 1.)*
 - **Aracısızlaşma derecesi:** düşük / orta / yüksek (uzman aracı ne kadar devre dışı?).
 - *Karar kuralı:* çalışmanın betimlediği fiili üretim öznesi esas alınır (öneri değil, uygulama).
 
@@ -57,7 +66,7 @@ Materyal/ürün üretiminin ağırlık merkezi kimde?
 - **Hedef beceri:** okuma / yazma / dinleme / konuşma / söz varlığı / dilbilgisi / kültür.
 - **Yön:** L1→L2 / L2 / genel.
 - **Yeterlik düzeyi:** A1–C2 / belirtilmemiş.
-- **Çalışılan dil(ler):** [serbest metin — örn. English-EFL, German-DaF, …].
+- **Çalışılan dil(ler):** [serbest metin]. *Korpus-gözlemli (25):* İngilizce-EFL/ESL (çoğunluk) · **Çince-CFL · Arapça · Romence-RFL · Almanca-GFL** (çok-dillilik kozu).
 
 ## C8. İddia / kanıt türü
 - **Tür:** kavramsal / empirik (nicel / nitel / karma) / derleme.
@@ -76,4 +85,5 @@ Materyal/ürün üretiminin ağırlık merkezi kimde?
 - C8 → kanıt-boşluk haritası (gelecek araştırma gündemi).
 
 ## Versiyon
-- v0.1 (2026-06-19) — tümdengelimli başlangıç. Tümevarımlı eklemeler buraya tarih + gerekçeyle işlenecek.
+- v0.1 (2026-06-19) — tümdengelimli başlangıç.
+- **v1.0 (2026-06-21)** — nihai **25-set** haritasına göre güncellendi: HİBRİT yordam netleşti (tümdengelim + tümevarım kapısı + κ doğrulama); betimleyici alanlar (araç/üretici/artefakt/dil) + korpus-gözlemli kategoriler eklendi. Tümevarımlı eklemeler kodlama sırasında bu dosyaya işlenecek.
