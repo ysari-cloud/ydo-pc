@@ -1,7 +1,8 @@
 # 25 — NİHAİ DAHİL/DIŞLA LİSTESİ (Görev-4, üretim/artefakt ölçütü)
 
 ---
-## ⏩ GÜNCEL (Görev-5, 2026-06-21) — NİHAİ DAHİL N = 24 (+C04 sınır → 25)
+## ⏩ GÜNCEL (MÜHÜRLENDİ 2026-06-21) — NİHAİ DAHİL **N = 25**
+> C04 = İÇERİ (kullanıcı mührü + 'artefakt üretiliyorsa içeri' kuralı, #18/#34 ile tutarlı; generative, E3 değil). #35 Guo = tam-metin TEYİTLİ İÇERİ (GFL eş-üretim). **Arama+eleme faslı KAPANDI.**
 > Aşağıdaki Görev-4 tablosu KORUNDU; bu bölüm Görev-5 recheck'i sonrası **yürürlükteki** nihai listedir. Kanıt cümleleri: `26-recheck-sonuclari.md`.
 
 **Değişim:** Görev-4 (18) → **+6** (7 Lenko, 18 Lo, 23 Wu, 34 Zaiarna, 40 Lee, 29 Bao) · **−2** (15 Shen=BERT/üretken değil, 32 Williyan=algı) → ana **22** + Kol-2 **2** = **24**.
@@ -34,9 +35,10 @@
 | A06 | Le & Le 2025 | text-to-image | öğrenci | dijital öykü/çizgi-roman | CALL-EJ |
 | C02 | Temiz 2025 | DALL-E | öğretmen | söz varlığı kartları | The Journal of Educational Research |
 
-**SINIR (kullanıcı mührü):** C04 Asadi 2025 — AI örnek+feedback; cloud oyu İÇERİ.
+**C04 Asadi 2025 → İÇERİ (mühürlendi):** AI Copilot örnek-metin/sample writings üretiyor = artefakt; generative; kural #18/#34 ile tutarlı. (En zayıf üretim vakası ama gerekçeli.) → Kol-2 = 3.
+**#35 Guo 2026 → İÇERİ (tam-metin teyitli):** Human-LLM GFL yaratıcı yazma eş-üretimi; kontrollü deney, 40 öğr.
 **Görev-5 yeni DIŞLAMALAR:** 15 Shen (E3/üretken-değil, BERT) · 21 Liu (E4) · 12 Bataineh (E4) · 32 Williyan (E4) · 39 Nguyen P.T. (JIPD predatory/discontinued).
-**PRISMA iki-kollu:** Kol-1 = 22 · Kol-2 = 2 · **NİHAİ N = 24** (C04 ile 25). Bibliyometrik 3.050 DONUK (predatory sınırlılığı: EnPress-ailesi 23 kayıt — bkz. `26`).
+**PRISMA iki-kollu:** Kol-1 = 22 · Kol-2 = 3 (A06, C02, C04) · **NİHAİ N = 25.** Bibliyometrik 3.050 DONUK (predatory sınırlılığı: EnPress-ailesi 23 kayıt — bkz. `26`).
 
 
 

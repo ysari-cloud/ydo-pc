@@ -52,3 +52,11 @@ Yüksek-hacimli ama meşru/indeksli: ARAB WORLD ENGLISH JOURNAL (korpusta 55) ve
 - Görev-4 kesin 18 → **+6 İÇERİ** (7, 18, 23, 34, 40, 29) − **2 DIŞARI** (15 BERT, 32 algı) → ana **22** + Kol-2 **2** (A06, C02) = **NİHAİ N = 24.**
 - **SINIR:** C04 (cloud oyu İÇERİ; kullanıcı mührü) → mühürlenirse **25.**
 - Koşullu: #35 Guo tam-metin teyidi (öz net → muhtemelen kalır).
+
+
+---
+
+## H) KAPANIŞ MÜHÜRLERİ (cloud + kullanıcı, 2026-06-21)
+- **C04 Asadi → İÇERİ.** Tam metin: AI Copilot 'sample writings' (model deneme) üretiyor = artefakt + generative (Copilot, E3 değil). Kural "artefakt üretiliyorsa etki de ölçülse içeri" (#18 Lo/#34 Zaiarna) ile tutarlı. En zayıf üretim vakası, gerekçeli. → Kol-2 = 3.
+- **#35 Guo → İÇERİ (tam-metin teyitli).** "When LLMs meet creativity: GFL writing through Human–LLM co-creation" (Innovation in LLT). Kontrollü deney, 40 GFL öğrencisi, insan-LLM yaratıcı yazma eş-üretimi (artefakt) + generative + Almanca FL. 
+- **NİHAİ N = 25** (ana 22 + Kol-2 3). **Arama+eleme faslı KAPANDI** → sıradaki: C1–C8 kodlama.
