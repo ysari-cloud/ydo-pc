@@ -26,6 +26,9 @@
 - **C1b — Konuşma-öğretici (muhatap):** öğrenenle diyalog/pratik partneri (sohbet ucu).
 - **C1c — Eş-tasarımcı / yardımcı:** öğretmenle birlikte tasarlar, taslak/öneri verir.
 - **C1d — Özerk üretici-geliştirici:** uygulama/site/courseware gibi *yazılım düzeyinde* ürün üretir.
+- **C1a′ — Değerlendirme/sınav üreticisi (v1.1):** test/rubrik/quiz = değerlendirme artefaktı (materyalden ayrı). İz: #34 Zaiarna.
+- **C1c′ — Öğrenen–YZ eş-yaratımı (v1.1):** YZ öğrenenin yaratıcı sürecinde ortak/yardımcı (öğretmen-yanlı C1c'den ayrı). İz: #13, #19, #40, A06.
+- **C1e — İnsan-yapılandırmalı üretken pipeline/sistem (v1.1):** öğretmen yapılandırır, sistem seri üretir (C1a↔C1d arası). İz: #8 Park, #29 Bao.
 - *Karar kuralı:* baskın işlev seçilir; birden çok belirginse en üst düzey üretim (d>c>a>b) işaretlenir, not düşülür.
 - *Korpus-gözlemli artefakt türleri (25):* okuma/öğretim materyali · ders planı · storybook · podcast · yaratıcı yazma · öğretim videosu · kelime kartı · dijital öykü/çizgi-roman · sınav/değerlendirme görevi · örnek metin (model deneme) · öğretim medyası. *(tümevarımla genişletilebilir.)*
 - *Korpus araçları:* ChatGPT/GPT · Gemini · Copilot · Claude · DALL-E/text-to-image · LLM+RAG.
@@ -59,6 +62,8 @@ Materyal/ürün üretiminin ağırlık merkezi kimde?
 Çalışma şunlardan hangilerine değiniyor? (çoklu)
 - emek yoğunlaşması / platform bağımlılığı / veri-mahremiyet / eşitsizlik-dijital uçurum /
   değer yakalama (value capture) / çözümcülük (solutionism) eleştirisi.
+- **(v1.1) Yazarlık/özgünlük/sahiplik etiği:** üretilen artefaktta "kim yazar?" — özellikle öğrenen/eş-üretimde. İz: #14, #19, #35, #40, C04.
+- **(v1.1) Aşırı-bağımlılık / öğrenen vasıfsızlaşması:** GenAI'ye aşırı güven, özerklik kaybı. İz: #30, A06, C04.
 - *Karar kuralı:* yalnızca açıkça tartışılanlar; geçer değinme ("mention") vs. analiz ayrımı not edilir.
   (Bu boyut SSCI karşı-ağırlığı için kritik — boş kalan çalışmalar da bulgudur.)
 
@@ -78,6 +83,7 @@ Materyal/ürün üretiminin ağırlık merkezi kimde?
 ---
 
 ## Sentez eşlemesi (analiz aşamasında)
+> ⚠️ **C1b=0 NOTU (kritik, yazımda):** Dahil sette C1b (konuşma-öğretici)=0 olması **ölçüt-gereğidir** (salt konuşma E3/E4 ile dışlandı) → tezin BAĞIMSIZ kanıtı DEĞİL (döngüsel olur). "Konuşma→üretim" kaymasının ampirik kanıtı = **bibliyometrik AS3 (geniş 3.050 tematik evrim)**; sentez C1 dağılımı değil.
 - C1+C2 → **"konuşma → üretim" sürekliliği** (AS3/AS4 ana eksen).
 - C2+C3 → **üretim merkezinin kayması & öğretmen failliği** (AS5).
 - C4+C6 → **kolaylık ↔ geçerlilik / yapısal riskler** gerilimi (tartışma omurgası).
@@ -86,4 +92,5 @@ Materyal/ürün üretiminin ağırlık merkezi kimde?
 
 ## Versiyon
 - v0.1 (2026-06-19) — tümdengelimli başlangıç.
-- **v1.0 (2026-06-21)** — nihai **25-set** haritasına göre güncellendi: HİBRİT yordam netleşti (tümdengelim + tümevarım kapısı + κ doğrulama); betimleyici alanlar (araç/üretici/artefakt/dil) + korpus-gözlemli kategoriler eklendi. Tümevarımlı eklemeler kodlama sırasında bu dosyaya işlenecek.
+- **v1.0 (2026-06-21)** — nihai 25-set; hibrit yordam + betimleyici alanlar + korpus kategorileri.
+- **v1.1 (2026-06-21)** — Görev-6 kodlamasından tümevarımlı eklemeler: **C1a′** (değerlendirme-üreticisi), **C1c′** (öğrenen-YZ eş-yaratımı), **C1e** (insan-yapılandırmalı pipeline); **C6'ya yazarlık-etiği + aşırı-bağımlılık**; **C1b=0 döngüsellik notu**. Kaynak: `kol2/28-yeni-kod-adaylari.md`.
