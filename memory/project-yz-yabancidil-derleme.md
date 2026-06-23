@@ -13,6 +13,15 @@
 
 ## 🔖 DEVAM NOKTASI
 
+### ⏭️ SIRADAKİ (YENİ OTURUM BURADAN DEVAM) — 2026-06-21 sonu
+**Arama+eleme + ölçüt + kodlama-kitabı BİTTİ. N=25 mühürlü.** İki paralel iş açık:
+1. **Komşu SSCI derleme YÖNTEM-ANALİZİ (cloud işi):** Yazıma geçmeden hedef-dergi seviyesi derlemelerin yapı+yöntemini analiz edip makalemizi ona göre kurgulayacağız. **Kullanıcı 5-6 PDF yükleyecek** (Deng & Jamaludin + Griche & Bennis ZATEN elimizde; istenen ekler: **Two Years of Innovation** [C&E:AI, en yakın SR], hedef-dergi [ILE/CALL/ReCALL/System] 1-2 derleme, 1 bibliyometrik). → Cloud `komsu-yontem-analizi.md` üretecek (yapı/PRISMA-raporlama/kalite-değerlendirme/sentez-yaklaşımı/çerçeve/figür + **ayrışma haritası**) = yazım iskeleti.
+2. **KODLAMA FAZI (cowork işi):** Kodlama kitabı **v1.0 HAZIR** (`04-kodlama-kitabi.md`, HİBRİT: tümdengelim C1–C8 + tümevarım kapısı + κ). **Cowork Görev-6** yazılacak: 25 tam metni v1.0 ile kodla → `kol2/27-kodlama-tablosu` (+yeni kod adayları). **Kullanıcı ≥%20 alt-kümede ikinci kodlayıcı (κ).**
+- **Sentez yaklaşımı = HİBRİT (kullanıcı kararı):** tümdengelimli iskelet + "örtmezse tümevarımla ekle" + doğrula.
+- **Hedef dergi:** ILE birincil (merdiven: ILE→ReCALL→CALL→JCAL→System).
+- Sonra: C1–C8 kodlama tamamlanınca **sentez (AS4–AS5) → hibrit v3 makale** (yazım cowork'te, iskelet/denetim cloud'da).
+- **Rol:** iş→cowork · köprü(indir/yükle/ilet)→kullanıcı · ölçüt/denetim/görev-yazımı/yöntem-analizi→cloud.
+
 ### ✅ NİHAİ DAHİL SETİ KİLİTLENDİ (2026-06-21, Görev-5 + cloud denetim GEÇTİ)
 - **NİHAİ N = 25 — MÜHÜRLENDİ. ARAMA+ELEME FASLI KAPANDI.** Liste: `kol2/25` · kanıt: `kol2/26`.
 - ana **22** + Kol-2 **3** (A06, C02, **C04**) = **25.**
