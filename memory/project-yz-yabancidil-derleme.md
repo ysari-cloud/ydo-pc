@@ -13,9 +13,12 @@
 
 ## 🔖 DEVAM NOKTASI
 
-### ⏭️ SIRADAKİ (YENİ OTURUM BURADAN DEVAM) — 2026-06-24 sonu
+### ⏭️ SIRADAKİ (YENİ OTURUM BURADAN DEVAM) — 2026-06-24 (Görev-7 DENETLENDİ)
 
-> 🎯 **TEK SONRAKİ ADIM:** Cowork **Görev-7**'yi yapıyor → `araclar/COWORK-GOREV-7-v1.2-yeniden-kod.md`. Cowork v1.2 ile 25 makalede **YALNIZ C1/C3/C6**'yı yeniden-kodlar (diğer 5 boyut sabit) → `kol2/27` günceller + `kol2/31` değişiklik logu push eder. **Yeni oturumda: cowork çıktısı geldi mi diye `kol2/31`'e bak; geldiyse cloud DENETLER → final kodlama KİLİTLENİR → sentez (AS4–AS5) + yöntem/giriş yazımı başlar.** Gelmediyse kullanıcıya cowork durumunu sor.
+> 🎯 **DURUM:** Cowork Görev-7 çıktısı GELDİ (kullanıcı köprü olarak `kol2/27`+`kol2/31` metnini yapıştırdı; cowork kum-havuzunda GitHub kimliği yok → push EDEMİYOR, o yüzden çıktıyı metin olarak alıp **cloud push ediyor**). **Cloud DENETLEDİ + bütünlük düzeltti + push etti (commit `570312e`).** Sonuç `kol2/32-cloud-denetim-gorev7.md`.
+> **Denetim:** C1(18)/C3/C6 değerleri v1.2 codebook'a UYGUN; 5 sabit boyut dokunulmamış. 3 bulgu: (1) #6&#18 C3 5→4 belgesizdi ama DOĞRU → cloud loga ekledi; (2) C6 standardizasyonu YAZARLIK/AŞIRI-BAĞIMLILIK alt-kodlarını silmişti → cloud geri yükledi; (3) **COWORK'E AÇIK (tam-metin):** #2/#7/#30 `C1a→c` için İz'de yineleme kanıtı + #1/#4/#8/#34 C6 POZİTİF kutup için açık alıntı.
+> **TEK SONRAKİ ADIM:** Cowork Bulgu-3'ü tam-metinden teyit etsin (kanıt varsa kal, yoksa #2/#7/#30→a, #1/#4/#8/#34 C6→yalnız-risk) + `kol2/27.xlsx`'i düzeltilmiş md'den yeniden üretsin (xlsx hâlâ eski kodlarda). **Paralelde: sentez (AS4–AS5) iskeleti başlayabilir** (Bulgu-3'ün AS4/AS5 ana desenine etkisi sınırlı: C1c baskınlığı + C6 çift-kutup deseni 3-4 hücre oynasa da durur). Yazım=cowork, iskelet/denetim=cloud.
+> ⚠️ Köprü modeli: cowork push EDEMEZ → cowork çıktıyı METİN olarak verir, kullanıcı yapıştırır, CLOUD origin'e push eder. (Kullanıcıya git komutu YAPTIRMA.)
 
 **TAMAMLANAN (2026-06-24):**
 - **κ PİLOTU HESAPLANDI** (`kol2/30`): n=6 (#6,13,19,29,34,35). Boyut-uyum: GÜÇLÜ C4~92/C7~83/C8~75 (dokunulmaz) · ORTA C5~67/C2~83 · ZAYIF C1~40/C3~42/C6~33. Genel ~66%.
