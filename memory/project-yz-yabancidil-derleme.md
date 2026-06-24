@@ -10,6 +10,7 @@
 - **Bu oturum (cloud) = TAKİP + YÖNLENDİRME + DENETİM.** Metodoloji/bütünlük kontrolü, dergi/atıf
   doğrulama (web erişimi var), yönerge hazırlama, kalıcı hafıza. **Cloud makale metni YAZMAZ.**
 - `06-yontem-taslak.md` = cowork'ün kullanabileceği REFERANS iskelet (paralel taslak değil).
+- ⚠️ **KÖPRÜ KURALI (kullanıcı, 2026-06-24):** Cloud cowork çıktısında DÜZELTME yaptığında, kullanıcıya HEMEN **cowork'e yapıştırılacak bildirim metni** ver (cowork aksi halde değişikliği bilmez; köprü = kullanıcı). Her düzeltme/karar sonrası bu metni otomatik üret.
 
 ## 🔖 DEVAM NOKTASI
 

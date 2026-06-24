@@ -68,7 +68,7 @@ Her İz birebir; kaynak `kol2/27` "Alıntı/İz" sütunu veya iskeletin kanıt h
 
 ## Ek 2 — Açık / belirsiz noktalar (uydurma YOK)
 
-1. **Yazar-yıl etiketleri** yalnızca `kol2/27` "Yazar-Yıl" sütunundan alınmıştır; **tam kaynakça + DOI doğrulaması AYRI bir bütünlük görevidir.** v3 taslağının bütünlük notu uyarınca şu an yalnız 12 referans doğrulanmış/gerçek sayılıyor; bu 25 dahil çalışma henüz doğrulanmış kaynakça listesinde değil. *(→ sıradaki bütünlük görevi: 25 dahil çalışmanın DOI/künye doğrulaması.)*
+1. **Yazar-yıl etiketleri** yalnızca `kol2/27` "Yazar-Yıl" sütunundan alınmıştır. **DÜZELTME (cloud):** 25 dahil çalışmanın hepsi GERÇEK ve elde — kullanıcı PDF'leri indirdi, cowork Görev-8'de tam-metinden kontrol etti; künye/DOI verisi `kol2/Kol2_Zotero_DOI_listesi.txt` + `Kol2_Zotero_import.ris`'te mevcut. ("Yalnız 12 referans doğrulanmış" ifadesi v3'ün ESKİ bütünlük notuydu, artık geçersiz.) Geriye kalan = bu verilerden **tam APA-7 kaynakça listesi DERLEMEK** (doğrulama değil, derleme/biçim işi).
 2. **İki ayrı "Lin 2025":** #6 (öğretmen, CFL okuma materyali) ve #13 (öğrenci, çok-kipli kompozisyon) — metin boyunca ID ile ayrıştırıldı.
 3. **Bakım uyarısı — ÇÖZÜLDÜ (cloud):** Cowork'ün gördüğü bundle (`42c95a7`) eski; `kol2/27`'nin dağılım-özeti bloğu cloud tarafından **Görev-8'de zaten senkronlandı** (C1c = 11; C6 çift-kutup = 10; origin commit `e21f9de`). Bu düzyazı da aynı Görev-8 sonrası kilitli sayıları kullanıyor → tutarlı, ek işlem gerekmez.
 4. **#35 C3 = "3–4"** (eş-üretim) olarak kodlanmıştır; C3 = 4 (17) toplamından ayrı sayılmıştır (iskeletle tutarlı).
@@ -81,4 +81,4 @@ Her İz birebir; kaynak `kol2/27` "Alıntı/İz" sütunu veya iskeletin kanıt h
 - Cowork düzyazısı `kol2/27` (v1.2+G8 kilitli) + iskelet ile **birebir denetlendi**: tüm C1/C2/C3/C6/C8 sayıları, makale ID grupları ve 12 İz alıntısı doğru.
 - **İki zorunlu kural yerinde:** C1b=0 döngüselliği (Boundary condition kutusu, kayma kanıtı=AS3) + iddia↔kanıt ayrımı (AS5-T3/T5, tek güçlü #35).
 - **Cloud düzeltmeleri:** (a) AS4-T5 "five→four target languages beyond EFL" (4 dil sayılıyordu: Çince/Arapça/Romence/Almanca); (b) iskelet yol referansı `kol2/25→25` (kök); (c) Ek-2 #3 bakım uyarısı "çözüldü" olarak güncellendi (özet bloğu Görev-8'de senkronlandı).
-- **Sıradaki:** (1) v4 taslağına işleme (cowork); (2) **bütünlük görevi: 25 dahil çalışmanın DOI/künye doğrulaması** (cloud web erişimi var — kaynakça kilidi için kritik); (3) Tartışma + Giriş güncellemesi (C4↔C6 gerilimi, "what this paper adds").
+- **Sıradaki:** (1) v4 taslağına işleme (cowork); (2) **APA-7 kaynakça listesi DERLEME** — 25 çalışma gerçek/elde (PDF + Görev-8 tam-metin); künye/DOI `kol2` Zotero dosyalarında → tam liste derlenecek (cloud web ile DOI'leri tamamlayıp biçimleyebilir); (3) Tartışma + Giriş güncellemesi (C4↔C6 gerilimi, "what this paper adds").
