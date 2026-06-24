@@ -17,7 +17,9 @@
 **κ PİLOTU HESAPLANDI** → `kol2/30-kappa-sonuc.md` (push: 4bd0552). Coder-1 (cowork `kol2/27`) vs Coder-2 (bağımsız YZ, düzeltilmiş tam tablo, C8 doğru kodlanmış), n=6 (#6,13,19,29,34,35). Boyut-bazlı uyum: **GÜÇLÜ** C4~92%/C7~83%/C8~75% (dokunulmaz) · **ORTA** C5~67%/C2~83%(c′↔d uzlaşması sonrası) · **ZAYIF** C1~40% (a↔c takla #6/#35) / C3~42% (ölçek #29,#34) / C6~33% (risk↔pozitif #6,#19). Genel ~66%.
 - **Coder-2 adjudikasyon notu UYGULANDI:** (1) öğrenci-yürütümlü (#13/#19/#35) `c′≈d`, aracısızlaşma öğretmen denetimiyle orta→yüksek; (2) C8 beceri/düzey/demografiden bağımsız=yalnız tasarım+kanıt → C8 sınırı doğru.
 - **KALAN ADJUDİKASYON (insan/tam-metin):** C1 #6(a/c) · C1 #35(a/c/**c′**) · C3 #29(4/1) · C3 #34(4/2) · C6 #6&#19(risk/pozitif çift) · Üretici #34(in-service/pre-service).
-- **SONRAKİ ADIM (kullanıcı onayı bekliyor):** codebook **v1.2** rafine (C1 a/c/c′ karar kuralı · C2 c-vs-d [öğrenci→c′≈d] · C3 1–5 somut çapa · C6 risk+pozitif çift kutup) → cowork 25'te YALNIZ C1/C3/C6 hafif yeniden-kodlar → final kilit. Sonra sentez AS4–AS5 + yazım.
+- **✅ 6 ANLAŞMAZLIK ÇÖZÜLDÜ (2026-06-24, cowork tam-metin + cloud denetim):** #6 C1 a→**c** · #35 C1 c→**c′** · #29 C3 4→**1** (otonom sistem, öğretmen kör-değerlendirici) · #34 C3 4→**3** (anket-beyanı, gözlenmedi) · #6&#19 C6 **çift kutup** · #34 üretici=in-service. İşlendi: `kol2/27` (adj. logu) + `kol2/30` (uzlaşı tablosu) + `04` codebook **v1.2** (push 6d1d9cb).
+- **codebook v1.2 KİLİTLENDİ:** C1 a/c/c′ ayracı (kim üretiyor × yinelemeli mi) · C2 c-vs-d (öğrenci eş-yaratım→d) · C3 1–5 somut çapa (otonom son-kullanıcı=1, anket-beyanı=3 tavan, gözlenen vs beyan) · C6 risk+pozitif çift kutup. **Üretici kimliği = dağılım etiketi, AMAÇ FİLTRESİ DEĞİL** (kullanıcı teyidi).
+- **SONRAKİ ADIM:** (a) cowork 25'te YALNIZ C1/C3/C6'yı v1.2 ile hafif yeniden-kodlar → final kilit; (b) sonra sentez AS4–AS5 + yöntem/giriş (24-analizi şablonu) → hibrit v3. *(κ alt-kümesi 6/25≈24%, yeterli; istenirse v1.2 sonrası ~12'ye genişletilip yeniden-κ.)*
 
 ---
 ### ⏭️ ÖNCEKİ DEVAM NOKTASI — 2026-06-21 sonu
