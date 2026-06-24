@@ -36,3 +36,17 @@
 - (zaten eklenmiş v1.1: a′, c′, e/e′, IRT, pozitif-pol adayı.)
 
 **Güçlü boyutlar (C4/C7/C8) dokunulmaz.** Zayıflar (C1/C3/C6) kural netleşince **cowork 25'te yalnız bu 3 boyutu hafif gözden geçirir** → final kodlama kilitlenir. κ böyle raporlanır: *"pilot κ orta; C1/C3/C6 için kodlama kuralları rafine edildi, ardından tam set yeniden kodlandı"* (metodolojik güç).
+
+---
+## ✅ 6 ANLAŞMAZLIK ÇÖZÜLDÜ (tam-metin adjudikasyonu, 2026-06-24)
+Cowork her birini tam-metinden, doğrudan alıntıyla çözdü; cloud denetledi & `kol2/27`'ye işledi:
+| # | Boyut | Coder-1 | Coder-2 | **Uzlaşı** | Tam-metin kanıtı |
+|---|---|---|---|---|---|
+| 6 Lin | C1 | a | c | **c** | "refine the outputs iteratively" / "adjust prompts iteratively" |
+| 35 Guo | C1 | c | a | **c′** | 40 GFL undergrad öğrenci üretici → öğrenen–YZ eş-yaratımı |
+| 29 Bao | C3 | 4 | 1 | **1** | "we designed and implemented the CCGF"; öğretmen kör-değerlendirici |
+| 34 Zaiarna | C3 | 4 | 2 | **3** | anket-temelli BEYAN (gözlenmedi); ChatGPT-gen + doğruluk süzme |
+| 6 & 19 | C6 | risk | pozitif | **çift kutup** | #6 TPI dönüşümü + bias/emek; #19 yaratıcı işbirlikçi + yazarlık/mahremiyet |
+| 34 | Üretici | in-service | pre-service | **in-service** | "36 respondents… professors of HE" *(kimlik = amaç filtresi DEĞİL; C2 b/b⁺ etiketi)* |
+
+**Sonuç:** Pilot sonrası C1/C3/C6 anlaşmazlıkları kural-temelli çözüldü → **uzlaşılmış (consensus) kodlama** tam-metne dayanıyor. Raporlama: *"İlk-tur boyut-bazlı uyum orta (~66%); altı anlaşmazlık ikinci kodlayıcı + tam-metin görüşmesiyle (consensus coding) çözüldü; kodlama kuralları v1.2'de rafine edildi."* — Two Years/Griche emsallerinden güçlü.

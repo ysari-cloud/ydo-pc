@@ -30,6 +30,11 @@
 - **C1c′ — Öğrenen–YZ eş-yaratımı (v1.1):** YZ öğrenenin yaratıcı sürecinde ortak/yardımcı (öğretmen-yanlı C1c'den ayrı). İz: #13, #19, #40, A06.
 - **C1e — İnsan-yapılandırmalı üretken pipeline/sistem (v1.1):** öğretmen yapılandırır, sistem seri üretir (C1a↔C1d arası). İz: #8 Park, #29 Bao.
 - *Karar kuralı:* baskın işlev seçilir; birden çok belirginse en üst düzey üretim (d>c>a>b) işaretlenir, not düşülür.
+- **🔧 v1.2 a/c/c′ KARAR KURALI (κ pilotundan):**
+  - **a (içerik-üretici):** tek-atımlı *generate→use* — öğretmen prompt verir, çıktıyı alır/kullanır (yinelemeli ortak-kurgu YOK).
+  - **c (eş-tasarımcı):** **yinelemeli** süreç — *"refine/adjust prompts iteratively"*, gidip-gelme, ortak-kurgu (öğretmen-yanlı). İz: #6 Lin.
+  - **c′ (öğrenen–YZ eş-yaratımı):** üreten ÖĞRENCİ + yinelemeli eş-yaratım. İz: #35 Guo, #13, #19, #40, A06.
+  - **Ayraç:** "kim üretiyor?" (öğretmen→a/c, öğrenci→c′) × "yinelemeli mi?" (hayır→a, evet→c/c′).
 - *Korpus-gözlemli artefakt türleri (25):* okuma/öğretim materyali · ders planı · storybook · podcast · yaratıcı yazma · öğretim videosu · kelime kartı · dijital öykü/çizgi-roman · sınav/değerlendirme görevi · örnek metin (model deneme) · öğretim medyası. *(tümevarımla genişletilebilir.)*
 - *Korpus araçları:* ChatGPT/GPT · Gemini · Copilot · Claude · DALL-E/text-to-image · LLM+RAG.
 
@@ -38,12 +43,20 @@ Materyal/ürün üretiminin ağırlık merkezi kimde?
 - **C2a — Yayıncı/uzman.** **C2b — Öğretmen-üretici.** **C2b⁺ — Aday öğretmen (öğretmen eğitimi).** **C2c — Öğrenen-üretici.** **C2d — İnsan-YZ eş-üretimi.** *(Korpusta: öğretmen çoğunluk · öğrenci 3 · aday öğretmen 2 · eş-üretim 1.)*
 - **Aracısızlaşma derecesi:** düşük / orta / yüksek (uzman aracı ne kadar devre dışı?).
 - *Karar kuralı:* çalışmanın betimlediği fiili üretim öznesi esas alınır (öneri değil, uygulama).
+- **🔧 v1.2 c-vs-d KURALI:** öğrenci tek başına üretirse **c**; öğrenci+YZ **yinelemeli eş-yaratım** ise (C1c′ ile eşleşir) → **d** (aracısızlaşma öğretmen denetimiyle orta→yüksek). İz: #35 Guo (c′→d). *Not: üretici kimliği (in-service/pre-service/öğrenci) yalnız b/b⁺/c ETİKETİDİR — dahil/amaç filtresi DEĞİL.*
 
 ## C3. Öğretmen rolü & failliği
 - **Süreklilik:** tüketici/uyarlayıcı ↔ tasarımcı/geliştirici (5'li: 1=salt tüketici … 5=geliştirici).
 - **Mesleki kimlik:** güçlenme / dönüşüm / tehdit olarak çerçeveleniyor mu?
 - **Vasıf yönü:** vasıfsızlaşma (deskilling) / yeniden vasıflanma (reskilling) / karışık / belirsiz.
 - *Karar kuralı:* yazarın açık çerçevelemesi + örtük ima ayrı not edilir.
+- **🔧 v1.2 1–5 SOMUT ÇAPA (κ pilotundan):**
+  - **1 = salt tüketici:** hazır/otonom sistemin çıktısını kullanır veya **yalnız değerlendirir** (sistemi başkası kurmuş). İz: #29 Bao (öğretmen kör-değerlendirici).
+  - **2 = uyarlayıcı:** YZ çıktısını düzenler/uyarlar.
+  - **3 = kolaylaştırıcı/üretici-uyarlayıcı:** YZ ile üretir + doğruluk için süzer. **Anket-temelli BEYAN edilen faillik (gözlenmemiş) burada tavanlanır.** İz: #34 Zaiarna.
+  - **4 = tasarımcı:** materyali/görevi etkin tasarlar.
+  - **5 = geliştirici:** sistem/pipeline düzeyinde kurar.
+  - **Çapa notu:** *gözlemlenen* faillik mi, *beyan edilen* (anket) mi — ayır; otonom-sistem bağlamında "öğretmen son-kullanıcı=1".
 
 ## C4. Pedagojik geçerlilik & kalite güvencesi
 - **Hizalama:** hedef/CEFR/müfredat hizalaması ele alınıyor mu? (evet/kısmen/hayır)
@@ -64,6 +77,10 @@ Materyal/ürün üretiminin ağırlık merkezi kimde?
   değer yakalama (value capture) / çözümcülük (solutionism) eleştirisi.
 - **(v1.1) Yazarlık/özgünlük/sahiplik etiği:** üretilen artefaktta "kim yazar?" — özellikle öğrenen/eş-üretimde. İz: #14, #19, #35, #40, C04.
 - **(v1.1) Aşırı-bağımlılık / öğrenen vasıfsızlaşması:** GenAI'ye aşırı güven, özerklik kaybı. İz: #30, A06, C04.
+- **🔧 (v1.2) ÇİFT KUTUP — açık kural:** C6 iki kutuplu kodlanır:
+  - **RİSK kutbu:** emek / platform bağımlılığı / mahremiyet / eşitsizlik / değer-yakalama / çözümcülük / yazarlık / aşırı-bağımlılık.
+  - **POZİTİF kutup:** mesleki rol yeniden-yapılandırması / öğretmen-öğrenci faillik dönüşümü.
+  - Bir çalışma **her iki kutbu da** açıkça tartışıyorsa **ikisi de** kodlanır. İz: #6 Lin (TPI dönüşümü + bias/emek), #19 Baskara (yaratıcı işbirlikçi + yazarlık/mahremiyet).
 - *Karar kuralı:* yalnızca açıkça tartışılanlar; geçer değinme ("mention") vs. analiz ayrımı not edilir.
   (Bu boyut SSCI karşı-ağırlığı için kritik — boş kalan çalışmalar da bulgudur.)
 
@@ -94,3 +111,4 @@ Materyal/ürün üretiminin ağırlık merkezi kimde?
 - v0.1 (2026-06-19) — tümdengelimli başlangıç.
 - **v1.0 (2026-06-21)** — nihai 25-set; hibrit yordam + betimleyici alanlar + korpus kategorileri.
 - **v1.1 (2026-06-21)** — Görev-6 kodlamasından tümevarımlı eklemeler: **C1a′** (değerlendirme-üreticisi), **C1c′** (öğrenen-YZ eş-yaratımı), **C1e** (insan-yapılandırmalı pipeline); **C6'ya yazarlık-etiği + aşırı-bağımlılık**; **C1b=0 döngüsellik notu**. Kaynak: `kol2/28-yeni-kod-adaylari.md`.
+- **v1.2 (2026-06-24)** — κ pilotu (`kol2/30`) zayıf bulunan **C1/C3/C6** için KARAR KURALI netleştirmesi: **C1** a/c/c′ ayracı (kim üretiyor × yinelemeli mi); **C2** c-vs-d (öğrenci eş-yaratım→d); **C3** 1–5 somut çapa (otonom-sistem son-kullanıcı=1; anket-beyanı=3 tavan; gözlenen vs beyan ayrımı); **C6** risk+pozitif **çift kutup** açık kuralı. 6 anlaşmazlık tam-metinle uzlaştı (`kol2/27` adjudikasyon logu). Üretici kimliği = dağılım etiketi, amaç filtresi değil.
