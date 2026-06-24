@@ -13,12 +13,13 @@
 
 ## 🔖 DEVAM NOKTASI
 
-### ⏭️ SIRADAKİ (YENİ OTURUM BURADAN DEVAM) — 2026-06-24 (Görev-7 DENETLENDİ)
+### ⏭️ SIRADAKİ (YENİ OTURUM BURADAN DEVAM) — 2026-06-24 (KODLAMA KİLİTLENDİ → SENTEZ)
 
-> 🎯 **DURUM:** Cowork Görev-7 çıktısı GELDİ (kullanıcı köprü olarak `kol2/27`+`kol2/31` metnini yapıştırdı; cowork kum-havuzunda GitHub kimliği yok → push EDEMİYOR, o yüzden çıktıyı metin olarak alıp **cloud push ediyor**). **Cloud DENETLEDİ + bütünlük düzeltti + push etti (commit `570312e`).** Sonuç `kol2/32-cloud-denetim-gorev7.md`.
-> **Denetim:** C1(18)/C3/C6 değerleri v1.2 codebook'a UYGUN; 5 sabit boyut dokunulmamış. 3 bulgu: (1) #6&#18 C3 5→4 belgesizdi ama DOĞRU → cloud loga ekledi; (2) C6 standardizasyonu YAZARLIK/AŞIRI-BAĞIMLILIK alt-kodlarını silmişti → cloud geri yükledi; (3) **COWORK'E AÇIK (tam-metin):** #2/#7/#30 `C1a→c` için İz'de yineleme kanıtı + #1/#4/#8/#34 C6 POZİTİF kutup için açık alıntı.
-> **TEK SONRAKİ ADIM:** Cowork Bulgu-3'ü tam-metinden teyit etsin (kanıt varsa kal, yoksa #2/#7/#30→a, #1/#4/#8/#34 C6→yalnız-risk) + `kol2/27.xlsx`'i düzeltilmiş md'den yeniden üretsin (xlsx hâlâ eski kodlarda). **Paralelde: sentez (AS4–AS5) iskeleti başlayabilir** (Bulgu-3'ün AS4/AS5 ana desenine etkisi sınırlı: C1c baskınlığı + C6 çift-kutup deseni 3-4 hücre oynasa da durur). Yazım=cowork, iskelet/denetim=cloud.
-> ⚠️ Köprü modeli: cowork push EDEMEZ → cowork çıktıyı METİN olarak verir, kullanıcı yapıştırır, CLOUD origin'e push eder. (Kullanıcıya git komutu YAPTIRMA.)
+> 🎯 **DURUM:** **Kodlama TAMAMEN BİTTİ ve KİLİTLENDİ.** Görev-7 (v1.2 yeniden-kod) + Görev-8 (Bulgu-3 tam-metin teyidi) cowork'te yapıldı, cloud denetledi + işledi + push etti. Son commit `e21f9de`. Çalışma ağacı temiz.
+> **TEK SONRAKİ ADIM:** **Sentez (AS4–AS5) iskeleti.** Yazım=cowork, iskelet/denetim=cloud. Kullanıcı "başla" derse cloud AS4–AS5 iskeletini üretir; yoksa cowork'e sentez görevi (Görev-9) yazılır.
+> ⚠️ Köprü modeli: cowork push EDEMEZ → çıktıyı METİN olarak verir, kullanıcı yapıştırır, CLOUD origin'e push eder. (Kullanıcıya git komutu YAPTIRMA.)
+
+**✅ GÖREV-8 TAMAMLANDI (2026-06-24) — Bulgu-3 tam-metin teyidi:** Cowork 7 şüpheli hücreyi tam-metinden alıntı+sayfa ile teyit etti, cloud denetleyip `kol2/27`(+xlsx)'e işledi, log `kol2/33`. **4 hücre değişti (tutucu yön):** #2 C1 `c→a` (yineleme yok—yalnız DBR döngüsü+atıf) · #1/#4/#34 C6 `çift-kutup→yalnız-risk` (pozitif=PD→C5 veya risk-yanlı rol-yükü). **3 teyit korundu:** #7 C1c ('refined it in subsequent iterations' s.7) · #30 C1c ('modify the outputs'+'significant prompting' s.8/10) · #8 çift-kutup ('content creators→curators and editors' s.15). **Yeni dağılım — C1:** c×11 (BASKIN), c′×5, a×5, e×2, d×1, a′×1 · **C6:** çift-kutup 10/25 (2,6,7,8,13,17,18,19,23,30), yalnız-risk 15. xlsx güncel md ile senkron.
 
 **TAMAMLANAN (2026-06-24):**
 - **κ PİLOTU HESAPLANDI** (`kol2/30`): n=6 (#6,13,19,29,34,35). Boyut-uyum: GÜÇLÜ C4~92/C7~83/C8~75 (dokunulmaz) · ORTA C5~67/C2~83 · ZAYIF C1~40/C3~42/C6~33. Genel ~66%.
