@@ -11,6 +11,7 @@
   doğrulama (web erişimi var), yönerge hazırlama, kalıcı hafıza. **Cloud makale metni YAZMAZ.**
 - `06-yontem-taslak.md` = cowork'ün kullanabileceği REFERANS iskelet (paralel taslak değil).
 - ⚠️ **KÖPRÜ KURALI (kullanıcı, 2026-06-24):** Cloud cowork çıktısında DÜZELTME yaptığında, kullanıcıya HEMEN **cowork'e yapıştırılacak bildirim metni** ver (cowork aksi halde değişikliği bilmez; köprü = kullanıcı). Her düzeltme/karar sonrası bu metni otomatik üret.
+- 🔄 **YENİ İŞ MODELİ (kullanıcı kararı, 2026-06-24):** Yapıştırma köprüsü bırakılıyor. Yazım **yerel Claude Code'a** (git erişimli) taşınıyor; sandbox "Cowork" emekli. Yerel CC depoyu klonlar → `git pull` (başta) / `git push` (sonda). Cloud aynı depoya pull/push (web araştırması + denetim). Tek doğru kaynak = origin. PDF'ler git'te DEĞİL (yalnız yerelde). Navigasyon: `00-NAVIGASYON.md`. ⚠️ Yerel klon OneDrive'a DEĞİL düz yola (örn. `C:\ydo-pc`) — OneDrive+git çakışır.
 
 ## 🔖 DEVAM NOKTASI
 
