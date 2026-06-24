@@ -15,8 +15,8 @@
 
 ### ⏭️ SIRADAKİ (YENİ OTURUM BURADAN DEVAM) — 2026-06-24 (KODLAMA KİLİTLENDİ → SENTEZ)
 
-> 🎯 **DURUM:** **Kodlama TAMAMEN BİTTİ ve KİLİTLENDİ.** Görev-7 (v1.2 yeniden-kod) + Görev-8 (Bulgu-3 tam-metin teyidi) cowork'te yapıldı, cloud denetledi + işledi + push etti. Son commit `e21f9de`. Çalışma ağacı temiz.
-> **TEK SONRAKİ ADIM:** **Sentez (AS4–AS5) iskeleti.** Yazım=cowork, iskelet/denetim=cloud. Kullanıcı "başla" derse cloud AS4–AS5 iskeletini üretir; yoksa cowork'e sentez görevi (Görev-9) yazılır.
+> 🎯 **DURUM:** **Kodlama KİLİTLİ + SENTEZ İSKELETİ HAZIR.** Görev-7+8 bitti (kodlama). **Cloud AS4–AS5 sentez iskeletini üretti → `25-sentez-iskelet-AS4-AS5.md`** (kanıt haritası + tema yapısı + paragraf planı + boşluk notları; `[YAZIM: cowork]` etiketli yerler boş). Son commit (iskelet dahil) aşağıda.
+> **TEK SONRAKİ ADIM:** **Cowork `25`'ten AS4–AS5 düzyazısını yazsın** (Görev-9). İskelet hazır; cowork yalnız düzyazıyı doldurur, cloud bütünlük/metodoloji denetler. İskeletteki 2 kritik kural: (1) **C1b=0 döngüsellik** — kayma kanıtı=AS3, AS4 değil; (2) **iddia↔kanıt ayrımı** (tek güçlü çalışma #35). Kanıt haritası özeti: C1c baskın (16/25 yinelemeli eş-tasarım); C3=4 tasarımcı baskın ama C3=5 yok (tavan); C6 yapısal-eleştiri boş = özgün boşluk-bulgu.
 > ⚠️ Köprü modeli: cowork push EDEMEZ → çıktıyı METİN olarak verir, kullanıcı yapıştırır, CLOUD origin'e push eder. (Kullanıcıya git komutu YAPTIRMA.)
 
 **✅ GÖREV-8 TAMAMLANDI (2026-06-24) — Bulgu-3 tam-metin teyidi:** Cowork 7 şüpheli hücreyi tam-metinden alıntı+sayfa ile teyit etti, cloud denetleyip `kol2/27`(+xlsx)'e işledi, log `kol2/33`. **4 hücre değişti (tutucu yön):** #2 C1 `c→a` (yineleme yok—yalnız DBR döngüsü+atıf) · #1/#4/#34 C6 `çift-kutup→yalnız-risk` (pozitif=PD→C5 veya risk-yanlı rol-yükü). **3 teyit korundu:** #7 C1c ('refined it in subsequent iterations' s.7) · #30 C1c ('modify the outputs'+'significant prompting' s.8/10) · #8 çift-kutup ('content creators→curators and editors' s.15). **Yeni dağılım — C1:** c×11 (BASKIN), c′×5, a×5, e×2, d×1, a′×1 · **C6:** çift-kutup 10/25 (2,6,7,8,13,17,18,19,23,30), yalnız-risk 15. xlsx güncel md ile senkron.
