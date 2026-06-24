@@ -13,7 +13,14 @@
 
 ## 🔖 DEVAM NOKTASI
 
-### ⏭️ SIRADAKİ (YENİ OTURUM BURADAN DEVAM) — 2026-06-21 sonu
+### ⏭️ SIRADAKİ (YENİ OTURUM BURADAN DEVAM) — 2026-06-24 güncel
+**κ PİLOTU HESAPLANDI** → `kol2/30-kappa-sonuc.md` (push: 4bd0552). Coder-1 (cowork `kol2/27`) vs Coder-2 (bağımsız YZ, düzeltilmiş tam tablo, C8 doğru kodlanmış), n=6 (#6,13,19,29,34,35). Boyut-bazlı uyum: **GÜÇLÜ** C4~92%/C7~83%/C8~75% (dokunulmaz) · **ORTA** C5~67%/C2~83%(c′↔d uzlaşması sonrası) · **ZAYIF** C1~40% (a↔c takla #6/#35) / C3~42% (ölçek #29,#34) / C6~33% (risk↔pozitif #6,#19). Genel ~66%.
+- **Coder-2 adjudikasyon notu UYGULANDI:** (1) öğrenci-yürütümlü (#13/#19/#35) `c′≈d`, aracısızlaşma öğretmen denetimiyle orta→yüksek; (2) C8 beceri/düzey/demografiden bağımsız=yalnız tasarım+kanıt → C8 sınırı doğru.
+- **KALAN ADJUDİKASYON (insan/tam-metin):** C1 #6(a/c) · C1 #35(a/c/**c′**) · C3 #29(4/1) · C3 #34(4/2) · C6 #6&#19(risk/pozitif çift) · Üretici #34(in-service/pre-service).
+- **SONRAKİ ADIM (kullanıcı onayı bekliyor):** codebook **v1.2** rafine (C1 a/c/c′ karar kuralı · C2 c-vs-d [öğrenci→c′≈d] · C3 1–5 somut çapa · C6 risk+pozitif çift kutup) → cowork 25'te YALNIZ C1/C3/C6 hafif yeniden-kodlar → final kilit. Sonra sentez AS4–AS5 + yazım.
+
+---
+### ⏭️ ÖNCEKİ DEVAM NOKTASI — 2026-06-21 sonu
 **Arama+eleme + ölçüt + kodlama-kitabı BİTTİ. N=25 mühürlü. Tüm 25'in tam metni ARTIK ELDE** (#13 Lin + #19 Risang Baskara kullanıcı tarafından indirildi → cowork TAM_METIN'e koyacak + final artefakt-teyidi). İki paralel iş açık:
 1. **✅ Komşu SSCI derleme YÖNTEM-ANALİZİ TAMAM (2026-06-21)** → `24-komsu-derleme-yontem-analizi.md`. 5 exemplar (Two Years/Deng/Griche SR + 2 bibliyometrik) analiz edildi: yazım şablonu + normlar + **ayrışma haritası**. Çıkan kararlar: κ'yı belirgin raporla (Two Years emsali; Griche'den güçlü) · EPHPP/CASP eklemeyi değerlendir (çoğu eksik=üstünlük) · Bibliometrix/Biblioshiny ekle ya da Python gerekçelendir · predatory tarama=özgün katkı · "What this paper adds" kutusu. *(Exemplar PDF'leri /tmp + uploads'ta; repoda değil.)*
 2. **✅ KODLAMA TAMAM (Görev-6, 2026-06-21) + cloud denetim GEÇTİ.** 25 makale C1–C8 → `kol2/27-kodlama-tablosu.md`(+xlsx) + `kol2/28-yeni-kod-adaylari.md` (repoda). Codebook **v1.1** (tümevarım: C1a′/C1c′/C1e + C6 yazarlık/aşırı-bağımlılık + **C1b=0 döngüsellik notu**). Kilit bulgular: kanıt-gücü çoğu orta (tek güçlü #35 deney) · yapısal-eleştiri zayıf=AS5 boşluğu · çok-dilli (5 dil). **KALAN: κ** — kullanıcı **6 makaleyi (6,13,19,29,34,35) kör/bağımsız** kodlar (codebook v1.1) → cloud κ hesaplar. *(yz-asama7.bundle push EDİLMEYECEK — içerik zaten repoda.)*
