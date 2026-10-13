@@ -20,17 +20,21 @@ Kullanıcı: Doç. Dr. Yunus Emre Sarı (`y.sari@iuc.edu.tr`). Dil: **Türkçe**
 dosyasını güncelle**, sonra mutlaka kaydet:
 
 ```bash
-git add memory/ && git commit -m "memory: <kısa özet>" && git push -u origin <dal>
+git add memory/ && git commit -m "memory: <kısa özet>" && git push origin HEAD:claude/youthful-franklin-wszezx
 ```
+
+Bu commit + push'u Claude kendisi yapar; kullanıcıya push işi bırakılmaz.
 
 > ⚠️ Push edilmeyen hafıza, oturum kapanınca **kaybolur**. Önemli değişiklikten
 > sonra commit + push etmek alışkanlık olmalı.
 
 ## ⚙️ Çalışma kuralları
 
-- Geliştirme dalı: `claude/youthful-franklin-wszezx` (kullanıcı aksini söylemedikçe).
-- Hafızanın HER yeni oturumda otomatik gelmesi için bu dosyaların deponun
-  **varsayılan (default) dalında** olması gerekir — feature dalı merge edilince sağlanır.
+- **TEK DAL KURALI (kullanıcı kararı, 2026-10-13):** Depoda yalnızca default dal
+  `claude/youthful-franklin-wszezx` var ve tüm işler DOĞRUDAN buna commit + push edilir.
+  Oturum sistemi farklı bir `claude/...` dalı atasa bile o dala push etme, yeni dal
+  açma, PR açma. Yan dal oluşursa içeriği default'a alınıp dal silinir.
+- Hafıza her yeni oturumda default daldan otomatik gelir.
 - Sahte içerik/yorum üretme yasak; resmî sınav logoları kullanılabilir (kullanıcı onaylı).
 
 ## 📌 Ortam notu
